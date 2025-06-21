@@ -1,0 +1,123 @@
+// CAR 시스템 Prisma 스키마 (최종)
+// DB: SQLite (운영 확장성 고려)
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  ADMIN
+  MANAGER
+  STAFF
+}
+
+enum EventType {
+  ONE_TIME
+  CONTINUOUS
+}
+
+enum ReceptionChannel {
+  EMAIL
+  CALL
+  VISIT
+  OTHER
+}
+
+model User {
+  id                Int      @id @default(autoincrement())
+  loginId           String   @unique
+  password          String
+  role              Role
+  name              String
+  department        String
+  email             String?
+  weeklyReportEmail Boolean  @default(false)
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  cars              CAR[]    @relation("CreatedCars")
+}
+
+model CAR {
+  id                  Int      @id @default(autoincrement())
+  corporation         String   // 우리회사(삼송) 지사 구분
+
+  eventType           EventType
+  issueDate           BigInt
+  dueDate             BigInt?
+  importance          Float
+
+  internalContact     String?
+  receptionChannel    String?
+  mainCategory        String?
+  openIssue           String?
+  followUpPlan        String?
+  completionDate      BigInt?
+
+  internalScore       Float?
+  customerScore       Float?
+  subjectiveScore     Float?
+  score               Float?
+
+  sentimentScore      Float?
+  aiKeywords          String?
+
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  createdBy           Int
+  creator             User     @relation("CreatedCars", fields: [createdBy], references: [id])
+
+  scoreHistories      ScoreHistory[]
+
+  carCustomerContacts CarCustomerContact[]
+}
+
+model ScoreHistory {
+  id        Int      @id @default(autoincrement())
+  carId     Int
+  car       CAR      @relation(fields: [carId], references: [id])
+  scoreType String
+  value     Float
+  createdAt DateTime @default(now())
+}
+
+model WeeklyReport {
+  id         Int      @id @default(autoincrement())
+  title      String?  // 보고서 제목 [주간 요약 보고서_AI분석_yymmdd-##]
+  weekStart  DateTime // unique 제약조건 제거 - 매번 새로운 보고서 생성 허용
+  data       Json
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}
+
+model managementEmail {
+  id    Int    @id @default(autoincrement())
+  email String @unique
+}
+
+model CustomerContact {
+  id                  Int      @id @default(autoincrement())
+  name                String
+  group               String
+  company             String?
+  department          String
+  phone               String
+  memo                String?
+  createdAt           DateTime @default(now())
+
+  carCustomerContacts CarCustomerContact[]
+}
+
+model CarCustomerContact {
+  carId               Int
+  customerContactId   Int
+  CAR                 CAR      @relation(fields: [carId], references: [id])
+  CustomerContact     CustomerContact @relation(fields: [customerContactId], references: [id])
+  @@id([carId, customerContactId])
+} 

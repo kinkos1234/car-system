@@ -1,0 +1,14 @@
+1. 백엔드 실행
+cd D:\car_v2.1
+npm start
+
+2. 프론트엔드 실행
+cd D:\car_v2.1\frontend
+npm run dev
+
+3 프리즈마 스튜디오 실행(db확인 필요시)
+cd D:\car_v2.1
+npx prisma studio
+
+4 Score 일괄 계산(seeding 후 필요)
+node prisma/score_update.js

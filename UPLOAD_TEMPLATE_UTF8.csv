@@ -1,0 +1,1754 @@
+sequence,corporation,customer,customer_department,customer_contact,reception_channel,main_category,internal_contact,open_issue,importance,event_type,issue_date,due_date,completion_date,follow_up_plan,status,subjective_score,internal_score,customer_score
+2017-0001,TECH,AutoMaker,Purchasing,Nick,,,ME,"1. David Bloom (���屸�� ����-Regina) ���� Seatbelt buyer���� Comad J company profile �ڷ� �����ϰ�, �湮 meeting�ǻ� Ÿ����",1,one_time,2017-10-24,,,1. F2F ���� ������ ����. ����� �ڼ��� �ľ��ϰ�����.,,10,,
+2017-0002,TECH,AutoMaker,Purchasing,Nick,,,ME,1. 1�� ���� ���Ź湮,1,one_time,2017-11-13,,,"1. ���屸�� ���, ����(JIM),����(MIKE)�� ���轴�۹�����(ED.)����
+ū ����������, ���������� ���� ��ü �������� ��Ȳ
+2. �߽��ڰ��� NAFTA������ ũ�� ������.",,20,,
+2017-0003,TECH,AutoMaker,Purchasing,Nick,,,�念���̻�,�߱� ������� ���� C490 �Ұ� �� �߱��� ���� �ּ�,0.3,continuous,2017-11-15,2017-11-30,2017-11-30,"1. �߱� ������� �湮 ���� �����
+(���庸���� ����)
+2. 1���� AutoMaker ������� ���೻�� ������ 2�� �湮 ����
+--> 4�� ��Ʈ����Ʈ �湮�� �������湮�� (4/��)
+������� ���Ŵ� �߱����� ���� ����",,,5,5
+2018-0001,TECH,AutoMaker,Purchasing,Nick,,,ME,1. 2�� ���� ���Ź湮,1,one_time,2018-05-02,,,1. �߽��ڴ����� ���� ���ؿ� ���� ���� : �⺻ ��翡 ���� �Ϲ��� ����(Nissan ������ ����)���� ���������� Reasonable �ϴٴ� �ǰ�.,,10,,
+2018-0002,TECH,AutoMaker,Purchasing,Nick,,,ME,1. 3�� ���� ���Ź湮,1,one_time,2018-10-30,,,"1. �������� �߿�ȸ�� �߻����� ��������. ������ ���ø� �����.
+2. ����� ��������Ȯ��. �����ҿ��� ���ŷ� �뺸, 
+3. ������ȸ ��û",,15,,
+2018-0003,TECH,AutoMaker,Purchasing,Nick,,,�念���̻�,AutoMaker CX430 RFQ���� �� ���� ����,1,continuous,2018-11-15,2019-01-24,2019-01-24,"��������Ϸ�
+��������ȸ�� ������
+���� �������� ���� RFQ ��������",,,4,5
+2019-0001,TECH,AutoMaker,Purchasing,Nick,,,�念���̻�,"CX430 RFI ���� ����ȸ��
+1. Technical suport �� �ο��� ���� ���� �� �ִ���
+2. NA market ������ ���� �������� ���� ��� Ȯ���ϰ� ������ ����� warehouse�����δ� ������ �Ȱ��� 
+3. �߱����� ���� ��ǰ�� ��� ���忡�� �ϰԵǴ��� 
+4. ������ ��ǰ�Ǵ°� ��� ü�� ���忡�� �ϴ��� ���
+5. ���� webex�� �������� ��������� �������� 
+6. VW�� Nissan ���� �����޿���",0.8,continuous,2019-02-14,2019-02-14,2019-02-14,"1. Company profile update: AutoMaker ���� ���������� ��뿹��. �����湮�� upper management�� presentation ����. ��缱���� OK �����Ѱ����� Ȯ��.
+2. �̱� ��Ʈ����Ʈ �繫�� �����Ͼ ������� (���ֽ� ��ô���)
+3. AutoMaker spec test - buckle failure solution status & action plan. This is only open item of spec. test.
+4. Overall, AutoMaker is very impressive by RFI, products and pricing.
+Nick said good news will be coming soon and launch a functional team (Purchase, Engineering and Product) to investigate Comad J plants and R&D center.",,,4,5
+2019-0002,TECH,AutoMaker,Purchasing,Nick,,,ME,"1. AutoMaker ���� FRQ���� ����, �ڷ��û
+- ���� ������Ʈ�� ��ȸ
+- ���� �����۾�( ������ ������湮)",0.8,continuous,2019-02-15,2029-02-19,2019-02-19,"���� ��ۿ� ���� ������������ ��� ������ ��ۿ� ���� Ȯ���� ����������.
+1. ���� ���� ��Ȳ �� ���� ��ȹ
+2. ���� �����Ͼ ���� ��Ȳ
+3. �ѱ����� �湮 �غ��",,,5,4
+2019-0003,TECH,AutoMaker,Purchasing,Nick,,,ME,"1. AutoMaker ���� AUDIT(�ѱ�,����) ������",0.5,one_time,2019-02-15,,,,,10,,
+2019-0004,TECH,AutoMaker,Purchasing,Nick,,,ME,"1. RFI ���ݼ��� - REASONABLE
+2. Real Program ���� (4����)
+3. 5/27�ֿ� �ѱ�,���� �湮����",0.3,continuous,2019-03-21,2029-05-27,2019-05-27,"1. ���� RFQ ���� �� ���м� : 4/12��
+2. ������ȼ� �غ� �� 4/15�� ��Ʈ����Ʈ ���忹��
+- Technical �̽��� ���� �ؼ�
+- ���� RFQ �м� ����
+- ����湮�� ���� ��ȹ Ȯ��",,,2,2
+2019-0005,TECH,AutoMaker,Purchasing,Burger Urs,,,ME,"1. ���� AutoMaker RFQ (4/9~10 ����)
+2. �ѱ�����湮�� ���� ��ȹ����
+3. �������� �湮 ��ȹ�� (4���߼�)
+4. PRE-SR ��������",0.3,one_time,2019-03-28,,,"1. PRE-SR ����
+: ������ ���� Transit���� ( V710)
+2.3D DATA (Catia) ����Ϸ� ( RD, 4/5)
+3. 4/10-->4/19 ����RFQ, SR ��������",,10,,
+2019-0006,TECH,AutoMaker,Purchasing,Burger Urs,,,ME,"���� V710 Technical Presentation
+(1��, 4/17 �ǽ�))
+- Overview of your company (production sites, development headquarters, OEMs you are working with)
+- Presentation of the seat belt components you plan to offer for V710
+- Wireless buckle technology",0.5,continuous,2019-04-12,2019-04-17,2019-05-27,"1. Technical Presentation �ǽÿϷ� (4/17)
+- ����� ü�� ������� ���� ����
+(SSK���޽� ��������-ü�ڻ�����α����ȹ)
+- ����� ��Ʈ����Ʈ ��������߿� - ������ ����
+- BLE ��Ŭ ��� �Ұ� ( 2�� �����ʿ�)",,,5,4
+2019-0007,TECH,AutoMaker,Purchasing,Burger Urs,,,ME,"AutoMaker ���� Restraints Workshop V4/710 Program (���� �������)
+- ���� : for 21st and 22nd May 2019.
+- ��� : ��Ű ���ڿ���
+-������ : PD & STA & MP&L and Purchasing departments",0.3,continuous,2019-04-17,2019-05-22,2019-05-22,"1. �����غ�
+- �����ο�(SSK������ �����ʿ�)
+- ��������
+�𵨱������ ���� (���� ����ũ���� �����)
+�䱸��� ��üȭ ( BLE ��Ŭ ������ )
+ü�ڰ��� � ��ȹ",,,2,2
+2019-0008,TECH,AutoMaker,Purchasing,Nick,,,ME,"��� ���� ����Ʈ�غ� WEBEXȸ��
+(4/17 �ǽ�)
+New Supplier Investigation - Comad J Supplier Visit Pre-meeting
+1. AutoMaker ���ż���� ����.�ε��������
+(8��)
+2. Q1 AUDIT ���� �� ��ȹ ����",0.1,continuous,2019-04-17,2019-05-30,2019-06-01,"1. ���� AutoMaker ����/�Ϲ�/�߱�/�ε� ����Ͻ��� ���ѱ�ȸ
+2. ��� ���� ����Ʈ ��ȹ ���� �� AutoMaker �۷ι�����
+3. ��������(ü��), �߱�����(�ѱ�),�ε�����(�ε�) ����.
+4. Q1 AUDIT SELF �򰡼� 5�������� ����
+2�ָ��� ���۷�������
+(100�������䱸�׸�, PT,PD,QC,ST,RD - CQ�ְ�)",,,5,5
+2019-0009,TECH,AutoMaker,Purchasing,Nick,,,ME,"AutoMaker �߰� RFQ ���� 
+1. ����: CDX 706/707 
+(AutoMaker Edge / Lincoln Nautilus)
+2. �Ⱓ VOLUM : 30����
+3. �������� : 6/7",0.3,one_time,2019-04-17,,,1. ������� �� Q&A : (4/24) ��Ʈ����Ʈ �����,,10,,
+2019-0010,TECH,AutoMaker,Purchasing,Nick,,,ME,��۰��� Q1 Assessment Audit �ǽ�,0.3,one_time,2019-06-01,,,"AutoMaker Q1 Assessment ����
+2019, 5/29(��) 15:30 ~ 5/31(��) 12:10
+AutoMaker Attendee
+1. Gizzi, Nicholas ( �̱� ��Ʈ����Ʈ ���Ŵ���� )
+2. Praveen kumar ( �ε� Core STA ) .
+3. Doering, Joerg (Product Development / Technical Engineer)
+4. �̱��� �̻� ( AutoMaker �ڸ��� STA )
+
+���
+1) ��ü������ �������� �� �������(���) ����ϴٴ� �򰡸��Ѱ����� �Ǵܵ�
+2) Q1 Audit �������� 21�� ��å�� ȸ�� �Ϸ� - ������ ������� ����",,10,,
+2019-0011,TECH,AutoMaker,Purchasing,Nick,,,ME,"CDX 706/707 ��������ȸ�� (6/11)
+- ���۷���ȸ��
+- ������ : Gizzi Nicholas, Buescher Wolfgang, Zukovic Azemina",0.2,continuous,2019-06-17,2019-06-18,2019-06-01,"1.CDX 706/707 ���� ����ȸ��
+- ������ BOM �� ���� ���ռ� Ȯ�� ȸ��
+- ���� ���� 1�� ���� ����",,,5,5
+2019-0012,TECH,AutoMaker,Purchasing,Nick,,,ME,Q1 Audit ���� Action ����,0.2,continuous,2019-06-17,2019-06-01,2019-06-01,"1. AutoMaker ���� ��� ����ȸ�� ������
+1) 6/13ȸ�� : ��ۿ� ���� ������ ����� ������. ������� ������ ���� �߱��������� ���þ�ü ��뿡 ���� �䱸�� ���ϸ� ���߹����������� ������Ʈ ���࿡ ����� �����
+2) 6/20 2��ȸ�� ����
+3) �̱����̻� �ǰ� : ���Ⱦ�����ǰ �űԾ�ü ���������� �ʹ� ���� ũ�� ����������. ����ó�� ��λ�̰����� �ʵ��� ������ �����ش޶�.
+2. Q1 Audit �������� 21�� ���� ��� �� �ǵ�� : 6/30 �� ���� 10�� 1�� �ǵ�� ����",,,5,5
+2019-0013,TECH,AutoMaker,Purchasing,Lin Yi,,,ME,CDX 706/707 �߱� RFQ ����,0.3,continuous,2019-06-25,2019-07-01,2019-07-01,"1. CAF ���ſ��� ���� ��ü��� ����
+( ����, ��Ī����, ���)
+2. ���μ��� ������ RFQ ���Ĺ��������� 
+(���� ������������ ���ͳ� ���� �������� ����)",,,3,3
+2019-0014,TECH,AutoMaker,Purchasing,"Nick, �̱����̻�",,,ME,��� Q1 ASSESSMENT �򰡰��,0.3,one_time,2019-06-25,,,"1. 6/24 ���峻�� 2�� ����ȸ��
+1) ������򰡴� ����� ���ٴ� �򰡰� ���Դ�(��ź���)
+- �ƿ��ҽ̺��ٴ� ���Ͻ����������ϸ� ���������
+- ����� ���� � ���ϰ� ����
+- ���� �ڵ�ȭ�� �ߵǾ� ����
+- ���������� ���̵� �پ ���
+2) ���̳��� Status �߰��پ��ʿ��� ( ������ ��������)
+- ��ä���� 400% �̻��̸� RED��.
+3) �����ϴ� �κ�
+- ��������� �ʹ� ����. ����ҽ��� �Ǵ��� ������ ���� ������ ������ �ȵ� ����� �ִ�.
+- ����� ��ۺ��� ���ٰ� ���ԵȰ��� �̱����� �繫�� ����� ����� �ο��� ������ ������ �ȴٴ� ��
+4) ��������� �򰡴� �̻���� ���������� �������� �����̸� ���丮��� ���غ��ٰ���. Ư�� ���ݼ����� ��������. ���� ����� ���������߿���. ���� �ϰ��� �ʿ�
+
+2 �߱� ������� ������ü : JSS�� �ƴ�, �ۿ�,����,����
+
+3. ������ ������ SAFETY��ü�� ���� ��ü������� �������� ������ǰ�̴� ��ŭ FMEA,Ư��Ư��,APQP���� ���� �ý������ؿ� ������ �����ϴ�. �� STUDY�Ǿ��Ѵ�.",,10,,
+2019-0015,TECH,AutoMaker,Purchasing,Nick,,,ME,"CDX 706/707 �̱� ���� ����
+��������(6/7)�Ϸ� 
+�̱� ���� NICK �������� ������
+: 8���߼� �����.
+���� Nego �� ���Ǹ� ���� ��Ʈ����Ʈ�湮 �ʿ� (8�� ��)",0.2,continuous,2019-07-16,2019-09-01,2019-09-01,"1. Tech �� Quality �̽��� Clear�� ����
+�����Ͼ��� ���üũ �߰����ǰ� �־� �����Ϸ�(7/18)
+2. ������ ������ : ���� ��۰��� ���������.
+�׷��� ��ü���� �����̳� �������並 ���� ���ݺ����� �� ������ ������ִ� ������ �����ش޶�",,,5,5
+2019-0016,TECH,AutoMaker,Purchasing,Burger Urs,,,ME,"V710 Tech Review ����
+- 1��(7/19)�Ϸ� : FR����
+- 2��(725)���� : RR
+
+8���� 2���� ����
+(��� �� ���ݰ���³�����ü)",0.3,continuous,2019-07-19,2019-09-01,2019-09-01,"1. 1�� TECH REVIEW
+- H/A Travel 90mm ���߿䱸
+- ��Ŀ PT ���� �а� ��� �䱸
+- �����ֿ䱸 (3D�� �켱 ����)
+- �е�, QR�ڵ� �ݿ� Ȯ�ο�
+2. �������� : FCA --> ��Ű���� 100km �̳����� �������
+SSCZ���� 1800km ������. 
+��Ű��ó ����â�� ��� �߰� ������Ȱ����ʿ�
+(Sepetlip��nar, Yenikoy, Derya Cd. No:1/1, 41275 Ba?iskele/Kocaeli, ��Ű)",,,3,3
+2019-0017,TECH,AutoMaker,Purchasing,Burger Urs,,,ME,"���� V710 Tech Review 2���ǽ� (7/25)
+--> 3�� tech review (8/15)����",0.3,continuous,2019-07-25,2019-09-01,2019-09-01,"1.WLR KC2.1 ��� ���̼��� �̻󿩺� Ȯ���ʿ�
+- ����Ȳ : ���Ⱓ����, HMC Ư�������� ����. (�豤��)
+- ����� ��� �����ʿ� (������)
+2. �������μ��� - ���� ��������
+- 3�� ��ü�� 2���� ���� ( ����� ���� 3.5��)
+- 8�� �߼��� 2���� �ش��ü ��ǥ����
+- ED&T���ߺ�� 5���, ������� �Ͻú� ���޵�.
+3. Wireless ��Ŭ�� ���������� ���� ������.
+4. �������� : ��Ű���� ��ó ����â�� �",,,3,3
+2019-0018,TECH,AutoMaker,Purchasing,Nick,,,ME,CDX 706/707 ������ ���� (7/26),0.2,continuous,2019-07-25,2019-09-01,2019-09-01,"��ȭ��� (Regina --> Nick)
+1. �� ������ �����ϴ°� �ƴϳ� ���ݸ鿡�� �����ϴ� ����.
+2. Engineering team��� ���ÿ����̰� RFQ review �������� �����ֿ� �˷��ְڴ�.
+3. �̹��� ��� Proposal�� ���õŵ� Final �ܰ�� �ƴϸ� Local office support�� �ļ� ��ġ ������ ���� ���� �����ɰ��̴�.
+4. Second round bidding ��ȹ�� ����.
+5. ����μ� �� �ʿ��� input�� ���� ����ȸ���� ������Ʈ���ְڴ�.
+Overall, ��������� �������� ������ �ް� �ֽ��ϴ�.",,,5,5
+2019-0019,TECH,AutoMaker,Purchasing,�̱����̻�,,,ME,���� ���� ���μ��� ����,0.3,continuous,2019-08-13,2019-09-01,2019-09-01,"**1��Ȯ�λ���
+1. RFQ ���� ���� Tech Review ���������� �ǽõǸ� �������� 1,2,3���� ���࿩�δ� ���� ������� ������ ���� �ٸ�. (��ǥ�� �̴޽� ��� ����� �� ����)
+2. ���� ��ü �����Ǳ� ���ؼ��� �������, ǰ������(STA�μ��� ASSESSMENT����),���Ž��� �� �Ϸ�Ǿ�� ������ (3���μ�����)
+3. ���� V710�� ���������� 4���� �� ������ �����̸� ���ſ��� STA �򰡿�û�� �����Ǹ� ��ۿ� ���� ���� �����࿹���� STEP1 (Headquarter Assessment), STEP(Plant Assessment) ����Ǹ� 1.5���� �ҿ��.
+4. ����� ���ŷ����� �ѱ���ü ��������Ʈ ��û�Ͽ����� �����ϱ� ������. ���ǻ��� �����ؼ� ��û�ϸ� ���������� �����ؼ� �˷��ְڴ�.",,,3,3
+2019-0020,TECH,AutoMaker,Purchasing,Nick,,,ME,CDX 706/707 �ļ��� ��ü�����ص� �������� ����,0.2,continuous,2019-08-13,2019-10-01,2019-09-01,"1. �̱� AutoMaker ������ �������� �Ǵ����� Ȯ��
+- �űԾ�ü �ҽ��� RISK�� ���̰�����
+- AutoMaker ���μ����� ���͵��ϰ� �������϶� ���¼���ȸ
+- �ļ��� PLL�������� ���ܰ� 6������
+- CDX 706/707 ���� : 18����
+2. �̱����ǽ��ǰ� 
+- ������ USNCAP ������ ���� �ΰ��� �κ����� SWLL ��������� ����� ������� ����. ũ���̽����� TRW SWLL ���߻��������� ��ü���������. ����δ��� ���� �ļ����� ��ȸ�� �������°� �´¹���
+3. �̱����̻��ǰ�
+- ���� ���� �������̴� ȸ��� �ļ����� ���ֹ޾� ���°��� �������� ������ ����. �����̶�� �����ؾ���. ���� ���� ������ ������ ����ǹǷ� ��ȸ�� ��� ����.",,,5,5
+2019-0021,TECH,AutoMaker,Purchasing,Nick,,,ME,"�߰� RFQ ����
+- GE2 CDX746/747 Program RFQ 
+- 11����(�߽���6.5��, �߱�4.7��)
+- �ű� SUV ����
+- ���� ���� : 9/30��",0.3,one_time,2019-08-13,,,1. ���� ����ȸ�� �� TRELLO ���� (8/14),,10,,
+2019-0022,TECH,AutoMaker,Purchasing,"Pelchat, Michael",,,ME,"Optimal cost estimate (OCE) for the 706/707 program content.
+You are going to have to get details on every component in every retractor and buckle assembly. about processes, labor, cycle times, etc. to produce every parts.",1,continuous,2019-09-19,2020-10-18,2019-10-01,"4������ (10/2 20~23��)
+- FR H/A
+- RR PLL
+- RR ELR
+- RR BUCKLE
+���¼� OCE ����ȸ�� �Ϸ��. --> ���� AutoMaker ���ſ��� ����ȸ�� ���࿹����, ( 10�� �߼��� ��� Ȯ�ο��� )
+���� �ڷ� �غ�� �ð��� ������ ��ŭ ���� ���� ����ڴ� ���� ���������� ����� ���䰡 �Ǿ��ٴ� �ǰ���.
+--> ���� �ϰ��� ���� �߿� ; ������� �����ʿ�",,,5,5
+2019-0023,TECH,AutoMaker,Purchasing,Nick,,,ME,"AutoMaker CDX 706/707 ���� �����ؼ� �̱����Ŵ�� NICK�� ��å�� �ɰ�.
+CDX707�� �߱�����,�̱��Ǹŷ� �ϰ漼������ ����Ǹ� ���� ��ü�� �����ϱ� ���ϰ� ����.
+�ѱ�����湮�� ���Ҵ� �ý��۰� �޸� �߱������� CAF ����Ʈ�� ���� ���� ����� ���޵�
+(ǰ��13��, ����14�� �߿��̽�, LIST�������޹��� �������� �ý����� ���� Ŀ�´����̼��̾ȵǴµ� )",0.3,one_time,2019-10-23,,,"1. �ϰ漼�� ����Ʈ ������ ������ȹȸ�� �� ����
+2. �̱�,�߱������� �������� �����غ��ʿ�",,-30,,
+2019-0024,TECH,AutoMaker,Purchasing,Nick,,,ME,"�ϰ���� ����Ʈ �ǽ�
+Company overview (30 mins)
+? Global footprint
+? Sales
+? Turnover
+? Products and customer
+Plant Presentation (30 mins)
+? Layout, org structure, sales, capacity, products, # of programs and customers.
+? Testing facilities & capabilities - PV/COP tests facilities (sled test, vibration, NVH durability, etc.
+? Warranty quality/ PPM at site global. 
+? MRP / ERP / traceability systems. 
+? Quality Performance including warranty
+? Design capability / local Engineering development
+? Customer supply chain performance metrics(e.g. Customer performance rating, ship-to-schedule, shipping discrepancies).
+Plant Tour (1 Hours)
+? Production 
+? Testing Facilities
+Comad J China Specific topics
+? Discuss STA Concerns & action plan
+? Discuss MP&L concerns & action Plan
+? Discuss Engineering concerns and action plan
+? Discuss programs in production, future business projections and experience of facility. 
+? Discuss how Comad J works around no PV/COP tests facilities (sled test, vibration, NVH, durability test feasibility. What is LT for testing turn around.)
+New Supplier Topics
+? Organization structure / staffing plan changes (in event of souring). 
+? Capacity analysis (in event of sourcing). Plant / Program specific.
+? Manufacturing Technology (Existing / New) -Provide clarity on manufacturing process assumptions
+? Discuss Engineering and Testing capability ? Surrogate program as example.
+? Review
+? Generic Program Timing Plan for new product 
+? Surrogate Quality Performance including warranty 
+? MRP systems & Traceability",0.3,one_time,2019-12-01,,,"12/2 �ϰ漼�� ���� ����Ʈ���
+1. �� �����ο��� 9������ 11������ �߰��Ǿ����� �������� ȸ�� ������� ���尡 �����ϰ� �ִ� �κп����� ������������ �����. �������忡���� �������� ������ ���ǰ� �־��� ������ ȸ�Ǹ� �ְ��ϴ� �̱��� Chuck�� ���� ������ �ϸ鼭 ����� �����ϰ� �����ַ��� ������ ����.
+2. �װ� ǰ��,����,�����Ͼ ���� �̽��� �־����� �̹�ȸ�Ƿ� 1�� �ؼҴ� �Ǿ����� ���� �߰� �̽��� ���ٸ� ���� ���ɼ��� ŭ.
+3. ����ȭ����(12/10) ���Ŀ� ���峻���� �߿� ȸ�ǰ� ������ ���������� �ϱ� �䱸�� ���� ��Ȯ�� �ڷ� ������ �Ǿ����. Chuck�� �ٸ������� �װ��ؼ� ���������� �׸��̳� �ϱ���� �䱸���Ǵ�� ��Ȯ�� �÷����ð� �Ǿ������ ����
+
+1) Enginnering Staffing Plan
+2) ������ǰ LOT Test ������� ( ��COP )
+3) ������������ ���� DFMEA -> PFMEA �ݿ��� ���
+4) PV TEST ��ȹ �Ϸ� �� Ÿ�̹� ������ UPDATE",,20,,
+2019-0025,TECH,AutoMaker,Purchasing,Nick,,,ME,"�ѱ����� ����Ʈ �ǽ�
+Comad J Korea Specific topics (+ topics above as necessary)
+? Status of A/R ? overview presentation (15 mins)
+? Full site tour include sub components / stamping
+? Discuss concern points for AutoMaker 
+o Limited support staff outside Korea. Limited contacts in EU, NA and China. 
+o Discuss weakness, opportunities and open items from last visit. ? item to be shared prior to visit.
+o Next steps
+
+? Cost Estimating Topics (2 ? 3 hours) 
+o Understanding of products & parts / hour
+o Layout of assemblies, sub-assemblies and component production. 
+�� Buckles, retractors, height adjustors. 
+o Cell footprint / manning
+o Tier 2 part origin
+o Design assumptions ? Basic product design information, bill of materials, etc.",0.3,one_time,2019-12-01,,,"12/10 �ѱ����� ����Ʈ���
+TODOLIST
+1) Staffing Plan Update : �ο���Ȯ��, ��������, Ramp Up �� �������� ( 12/30)
+2) COP SLED ������� (�߱�,�߽���) 
+3) �п��� ������Ŭ �� �����ù�Ŭ ���ݼ��� ���� (12/30)
+4) �п��� SP3 �ڵ�ȭ���� �� �η� �ʿ�κ� �����ڷ�� (12/20)
+5) �ϰ漼���� OTD/QIS/HANRO ����ȭ �ý��ۿ� ���� ���μ��� �ڷ� ���� (12/20)
+6) Test equipment list �ۺ�_ PDV/PV���� ��ȹ���� (�ѱ� �� �߱�) (Mr. Yin) (12/20)",,20,,
+2020-0001,TECH,AutoMaker,Purchasing,Nick,,,ME,Can you please have your team update the financials in vontik? Comad J is about to become uncompliant.,0.5,continuous,2020-01-15,2020-10-28,2020-10-17,"Financial Information Update : 1/17 ����Ϸ�
+It is improved overall rating from Yellow to Green as below",,,5,4
+2020-0002,TECH,AutoMaker,Purchasing,"Nick, Nagy Jason",,,ME,"��� �߽��ڰ��� �̽� WEBEXȸ��
+control capacity planning for the Mexico plant. There was a couple of concerns that the CAR may have been filled out incorrectly.",0.3,continuous,2020-01-18,,2020-10-18,STA CAR5.6 Capa�ڷ� ���Ͽ䱸 : AutoMaker Korea����(1/22) �ǽ� �� 1/23 ���� ������ ���⿹��,,,5,4
+2020-0003,TECH,AutoMaker,Purchasing,Nick,,,ME,"�ű� RFQ������� (CDX746/747)
+1. Please confirm we align on a vehicle level for the total subtotal costs.
+2. Please provided a design walk from the 777 quote (front belts) to this program. I am noticing that the cost is increasing on the front belt systems.",0.5,continuous,2020-02-12,,2020-02-25,"1. CDX777 ��� ���� ���� �м� ���ÿϷ�
+2. �λ�ݾ׿� ���� �����",,,5,5
+2020-0004,TECH,AutoMaker,Purchasing,Nick,,,ME,D&T & Tooling Review - Comad J Restraints,0.2,continuous,2020-03-13,,2020-03-15,1. RR���� ���뿡 ���� ���ߺ� ����ǽÿϷ�,,,5,4
+2020-0005,TECH,AutoMaker,Purchasing,"Nick, Francisco",,,ME,"AutoMaker Mexico STA ��� �缱��
+KICKOFF WEBEX ����䱸
+Self Audit �� �����Է¿䱸 (D-->A)",0.2,continuous,2020-03-19,,2020-03-30,"1 Self Audit �� �����Է¿Ϸ�
+2. ������� ���� �� ������ ȸ�� ����
+���� ����� ���� 2�á�",,,5,5
+2020-0006,TECH,AutoMaker,Purchasing,Nick,,,ME,"Supplier on Board Agreement (SOBA). 
+AutoMaker Document Review Required: CW2234367 - 2023 CDX777_777 Rear Seatbelts DT2 - Comad J_SEAT BELTSHOOD LIFTERS_105157: Send SOBA to Supplier for Review",0.3,one_time,2020-03-27,,,"1. CDX777 �űԾ�ü ���� ��༭�� ����, �Ϸ�(4/6)
+( T1 and DT2)
+2. ���� CPA(Commercial and Program Agreement) �����.",,20,,
+2020-0007,TECH,AutoMaker,Purchasing,"Nick, Francisco",,,ME,"��� AutoMaker �űԾ�ü���� �̷�
+Comad J was part of a year long multivendor investigation that included Wooshin Safety Systems and Comad J. Both supplier produce seatbelts and were deemed capable. However, Comad J was selected due to their superior quality systems, vertical integration, cost competitiveness and global manufacturing locations. Comad J will be a new supplier to AutoMaker.",0.3,one_time,2020-03-27,,,,,3,,
+2020-0008,TECH,AutoMaker,Purchasing,Nick,,,ME,"�߰� RFQ ��������ȸ��
+- GE2 CDX746/747 Program RFQ 
+- 11����(�߽���6.5��, �߱�4.7��)
+- �ű� SUV ����
+- ���� ����Ϸ�",0.3,one_time,2020-04-06,,,"1. CDX777 ��� ���� ���� �м� ���ÿϷ�
+2. �λ�ݾ׿� ���� �����
+3. FR DLL ��翡 ���� �𵨽��� ���� ���డ��
+( 5���� �ϷΌ��) : 5/13 ����Ϸ�",,3,,
+2020-0009,TECH,AutoMaker,Purchasing,Nick,,,�念���̻�,- GE2 CDX746/747 ���� �� ��纯��,0.2,continuous,2020-05-07,2020-05-08,2020-05-08,������׿� ���� �����ڷ� UPDATE ����Ϸ�,,,5,5
+2020-0010,TECH,AutoMaker,Purchasing,Nick,,,�念���̻�,AutoMaker intends to award Comad J the GE2 program next week via the official SOBA document.,0.2,continuous,2020-05-07,2020-05-08,2020-05-08,"SOBA �ڷ� ���ռ� Ȯ�� �� ȸ�� (5/8 �Ϸ�)
+: �ļӾ��� DLL TEST �� AR ���� �������� �������.",,,5,5
+2020-0011,TECH,AutoMaker,Purchasing,Nick,,,CDX777 CFT,"CDX 777 Kickoff ���� ( 5/14)
+- ���� �ſ�14�� ����ȸ������
+- CDX777 ������Ʈ�̽� �������
+- ��۰� ���� CFT ���� (����/����/ǰ��)
+- 5/14�ֿ�Ȱ� 
+1) ��� �߽��ڰ��� ������Ȳ
+2) ��Ʈ����Ʈ �����Ͼ� �����ð�ȹ
+3) 777 �������� �����",0.3,one_time,2020-05-07,,,CDX 777 Kickoff ���� ( 5/14) ����Ϸ�,,3,,
+2020-0012,TECH,AutoMaker,Purchasing,Nick,,,ME,"- GE2 CDX746/747����Ȯ��, SOBA ������� �Ϸ�",0.3,one_time,2020-05-13,,,,,3,,
+2020-0013,TECH,AutoMaker,Purchasing,Nick,,,�念���̻�,"- 746/747Engineering Team of Five Kick Off
+? Introduction
+? Comad J Organization ? Who should 746/747 Engineering be interfacing with?
+? 746 / 747 Timing and deliverables",0.3,one_time,2020-05-14,,,"CDX 747/46 Kickoff ���� ( 5/19) ����Ϸ�
+�̽� : 746/747 �����Ͼ� �̼���
+�̱� �İ� �����Ͼ� �� �ؿ� ä�� �����Ͼ� ����",,-10,,
+2020-0014,TECH,AutoMaker,Purchasing,Nick,,,ME,CDX 777 ���α׷� ��� - �����繫��Ȳ,0.3,continuous,2020-06-08,2020-06-08,2020-06-08,AutoMaker SOBA LETTER ���� �� �����ϿϷ�,,,2,2
+2020-0015,TECH,AutoMaker,Purchasing,Yusuf Haque,,,ME,V769 project announcement,0.3,one_time,2020-09-05,,,V769 project announcement provided via Frank with Haque as commerical lead (EU),,5,,
+2020-0016,TECH,AutoMaker,Purchasing,Nick,,,ME,"����� �������� ���� introduce meeting : 
+Nick �� David Greer",0.3,one_time,2020-09-08,,,"Introduction
+Comad J Sales/Marketing Staff
+Reginal Support in NA Office
+Company Profile and Global Footprint
+Product line-up
+Quality Awards
+Mexico Assembly Plant",,10,,
+2020-0017,TECH,AutoMaker,Purchasing,Yusuf Haque,,,ME,V769 quotation prep meetings,0.3,one_time,2020-10-01,,,Had several conference calls with Haque and Ozdogan (engineering) in preperation for quotation submission,,5,,
+2020-0018,TECH,AutoMaker,Purchasing,Yusuf Haque,,,ME,V769 Quotation submission,0.3,one_time,2020-10-26,,,Submitted quotation for V769,,5,,
+2020-0019,TECH,AutoMaker,Purchasing,Yusuf Haque,,,��������,V769 Quotation alteration request,0.3,continuous,2020-10-27,2020-10-28,2020-10-28,"Haque requested our quotation currency to be changed from KRW to EUR and few other minor changes
+We made all requested changeds and resent right away",,,3,3
+2020-0020,TECH,AutoMaker,Purchasing,David Greer,,,ME,"Comad J Business Unit Review 
+- ����� �� �ؿ� 2~3���� Business Unit Review�� ��ü�� ����,
+- ������Ʈ ������ ����
+- ���� RFQ �� �̷��� ���� �غ�.",0.3,one_time,2020-11-10,,,"Agenda
+1. Company Profiles & Global Footprint
+2. AutoMaker Project Awards and Quoting
+3. 5-year Business Plans and Expansion in NA
+- Mexico Plant, - Detroit Office
+4. Product Portfolio
+5. Partnership of Airbag Supplier",,10,,
+2020-0021,TECH,AutoMaker,Purchasing,David Greer,,,ME,"[USCAR Invitation]
+1) ��3 �� ��Ʈ��Ʈ ���»�(AL, JSS ,TRW, WS)�� �б⺰ �ѹ��� ����ȸ�Ǹ� ����, 
+:���忡�� ���������� �츮�� �ʴ�����.",0.3,one_time,2020-11-10,,,"[USCar Pre Tensioner Spec kickoff] - 12/12/2020
+[������] : USCAR / OEM: AutoMaker, GM, FCA / Supplier: ZF, Autoliv, Joyson, Comad J �� ��� ���޾�ü
+[ȸ�� ����] �̹� ȸ�� ������ �����ټų��� thermodynamics �� ���� ȭ�����迡 ���� ��, �׸��� ���� ȭ�������� �ּ�ȭ ��Ű�� ���� �����ټų�(�� A/PT) ������ �ʾ��� ��� ���̾���",,7,,
+2020-0022,TECH,AutoMaker,Purchasing,David Greer,,,ME,CDX746 WEEKLY MEETING,0.3,one_time,2020-11-10,,,"����ȸ�� ���� ������, ���ָ���͸�",,7,,
+2020-0023,TECH,AutoMaker,Purchasing,Yusuf Haque,,,ME,V769 Technical review,0.3,one_time,2020-11-27,,,Provided techncial presentation of our quotation submission to AutoMaker Engineering & commercial team,,5,,
+2021-0001,TECH,AutoMaker,Purchasing,David Greer,,,ME,NEW Tech Review Meeting,0.3,one_time,2021-01-11,,,"1. Part 1: Advanced Seat Belt Technology:
+? Roadmap
+? High Power Motor PT
+? Electronical ELR Sensor (E-V/S)
+? Active Lab Belt and Buckle Lifter
+? Wireless Buckle Sensor (WBS)
+2. Part 2: Active Seat Belt:
+? Active Restraint System (Motorized Retractor)
+? Automotive S/W Update Management and Cyber Security",,3,,
+2021-0002,TECH,AutoMaker,Purchasing,Yusuf Haque,,,ME,V769 project withdraw request,0.3,one_time,2021-01-21,,,"Frank received call from Haque requesting we withdraw from the V769 project
+Our quotation is not competitive due to carry over costs
+He was impressed with our professionalism and rapid communication and wish for us to participate in future projects",,5,,
+2021-0003,TECH,AutoMaker,Purchasing,David Greer,,,ME,"CDX74X Seatbelt To5 Review - Review P2EC package, and ESOW",0.3,one_time,2021-02-01,,,"P2EC �����翡 ���� ��������
+Seatbelt To5 Meeting Minutes: 
+
+1. Attendees: R. Rudnick, T. Raines, M. Hughes, M. Pelchat, S. Raines, Jack Chung, KC, Regina Chung, J. Liu.
+2. Team reviewed P2EC package with supplier on 2/18
+a. Base on the current design(P2EC level), supplier will be working the quote.
+b. need verify vehicle volumes with David Greer for P2EC document.
+3. The latest supplier design info to AutoMaker Engineering/Cost Estimator by 2/25 (Supplier please confirm the date)
+4. Supplier Quote return date: 3/11 (a few quotes will be a few days late)
+5. Tech Review with Supplier on the new quote: 3/18
+6. Complete verified quote update in FEDE BOM by 3/24",,3,,
+2021-0004,TECH,AutoMaker,Purchasing,Edward,,,ME,"CDX706/707 CAD ���ϸ���ȸ��
+: DATA Update �ð����� �̽���",0.3,one_time,2021-03-04,,,"���ڻ�� ���� �ǰ�
+- 7�� ���� AutoMaker �����Ͼ� �κ� ��� �ٹ�����
+- �ּ� CAD �ǽð� ���� ���� ������ �ʿ�
+- ���� �����Ͼ� ä�����
+: SETVAN�� �뿪��ü ��ƮŸ��
+��������ä�� (��ƮŸ��, �ڵ��������ο���)",,-5,,
+2021-0005,TECH,AutoMaker,Purchasing,David Greer,,,ME,CDX706/707 OEC �� P2EC ���躯�� ����,0.3,one_time,2021-03-10,,,CDX706/707 OEC �� P2EC ���躯�� ����,,10,,
+2021-0006,TECH,AutoMaker,Purchasing,Edward,,,ME,AR ���� ����,0.3,one_time,2021-04-09,,,"1. ��ü ���� ��Ȳ 
+�� �׸� 20��
+�Ϸ� �׸� : 16�� (80%)
+���� �׸� : 3��(15%) ? �����߼� ��, 3���� ������ �� ������, ȭ����
+������ : 1��(5%) ? ������ ��
+
+2. ISSUE ����
+ISSUE ��Ȳ �� 4��
+1) NOSIE TEST : N10 ��� �� ���� �Ϸ�. BARRY PC �̻����� ���� ��� ��Ȯ�� ����. ���ο� PC ���� �� Ȯ�� �� �ǵ�� �ֱ�� ��.
+2) SWLL LOW TORSION BAR ���尭�� : ���� ���̵� �ö�ƽ ��� �Ĵ����� ���� ���� �Ҹ��� a ���� �� ���尭�� �򰡸� ��ƿ ������ �ݿ��Ͽ� �߰� �� ����
+3) APT, PLL ���尭�� �Ҹ��� : SPEC ���� �����̹Ƿ� ���� ���� ������ �Ǵ� ��. ���� �� �ʿ�� �� �� ����.(CLOSE)",,5,,
+2021-0007,TECH,AutoMaker,Purchasing,Edward,,,ME,CDX706/707 CAD �ְ�����ȸ��,0.3,one_time,2021-04-09,,,"�ű� �����Ͼ� 3�� ���� ����
+: ���� �̽�����",,10,,
+2021-0008,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,"����� ����
+David Greer �� Alexander Piku",0.3,one_time,2021-04-13,,,"Tech Review �� �����Ͼ�κ��� ���Ŵ�� ���� ��������
+- ���� ���躯���縮��ȸ�� (P2EC) �� ���ļҰ�����
+- ȸ����Ȳ�Ұ� �� ���� ���ؿ��� (4/30)",,5,,
+2021-0009,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,ȸ��Ұ� �� CDX746 ������Ʈ ��Ȳ ����,0.3,one_time,2021-05-03,,,"New buyer introduction call (Alex Piku)
+2021 05 03
+
+After short introduction
+*7 years as AutoMaker buyer (cabin/cockpit)
+
+Piku wishes to visit our Mexico plant when Covid subsides and will participate in next STA meeting between AutoMaker MX and our plant
+
+Piku confirmed there is new project later this year when I mentioned Explorer and said that he wishes to continue to have Comad J participate in the sourcing program.
+
+While talking about our recent quotation submission, he also mentioned we would have to prepare another quotation package (F2EC?) in the near future.
+
+For overdue engineering labor cost, Piku had no issue with reimbursing but had to see how that will be handled. There are 2 options:
+1. Amortize to piece price
+2. Pay after Job1 milestone (in different payment plan)
+Piku wants to find out if there was prior arrangement set in place when the project was assigned.
+Engineering team mentioned during CAD review that they always amortize into one component
+
+AutoMaker will not issue payment for any work prior to SOBA but our SOBA was signed last May and our work schedule starts in July
+
+For test cost, Piku also does not want to underbudget and have engineering team come back for additional funding. He also suggest we set additional funding for extra sled test and unforeseen tests in cost estimate but will talk to engineering team to determine how to do this. 
+
+Piku is willing to join the weekly touchpoint to discuss with engineering team regarding this matter
+
+For quality assurance engineering labor on ED&T ($75,000), this should not be on appendix K and should be part of the SG&A
+
+Same for additional potential cost for SCCAF quality control cost, this should be part of the SG&A and be part of the piece price
+
+It was advised that we do not mess too much with SG&A unless its necessary, it does not look good competitively and such.",,10,,
+2021-0010,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,CDX767-7 Seatbelts- GVT Tooling Playbook review,0.3,one_time,2021-06-07,,,�����׸� �� �������� ���� With ENGINEER,,10,,
+2021-0011,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,F2EC ���躯�渮�� �� ���ݰ��� 1��,0.3,one_time,2021-06-07,,,F2EC ���躯�渮�� �� ���ݰ��� 1��,,5,,
+2021-0012,TECH,AutoMaker,Purchasing,"Rudnick, Raines",,,ME,"CDX746/7 Program Status review meeting (�ְ�: Angeala Zeatta) 
+--> Head of appliction engineer",0.3,one_time,2021-07-01,,,"Below is the agenda of CDX746/7 program Status review meeting tomorrow as discussed:
+1. CAD update Status
+2. DV test and tooling timing
+3. AR test status and completion
+4. Crash Safety CAE model data delivery
+5. Plan of On-site support at AutoMaker Dearborn Office",,5,,
+2021-0013,TECH,AutoMaker,Purchasing,Chuck Leese,,,ME,Chuck��s EMM to review Comad J Seatbelt issues on CD746/7 (7-14-21),0.3,one_time,2021-07-14,,,"Three perspectives: Application, Technical and Resource support
+Four main items needing attention and a recovery plan for:
+
+DLL Tooling to support DCV builds
+Retractor sensor tooling to support DCV builds
+SB-0295 test timing for SLL countermeasures on cotton box testing and timing for spark box testing 
+Local Engineering and CAD support for AutoMaker application team",,-7,,
+2021-0014,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,F2EC OCE MEETING,0.3,one_time,2021-08-23,,,Meeting to start process of design review for OCE updates from P2EC to F2EC,,5,,
+2021-0015,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,Comad J GVT Playbook Review- CX746/7,0.3,one_time,2021-09-23,,,"1. Tool shop due-diligence reviews - Technical review with the top position bidder for each group
+2. Update AutoMaker Tool Breakdown Sheet with the latest tooling amounts",,5,,
+2021-0016,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,Detroit Office ���� �̺�Ʈ �� ���� �����Ͼ� ȸ�� ����,0.3,one_time,2021-09-27,,,"AutoMaker ? Comad J Offsite Events:
+
+Friday, 10/1
+? Golf outing at 3pm: 9 holes at Evergreen Hills GC
+26000 Evergreen Rd, Southfield
+? Dinner at 6pm: Jinji Korean Cuisine & Soju Bar
+27566 Northwestern Hwy Ste A, Southfield
+
+List of Invitees:
+? AutoMaker: 
+u DNR: Robert Rudnick, Travis Raines, Stacey Raines, Angela Zaetta
+u Core Rest.: Barry Maloney, Benjamin Yilma, Edward DeSmet, Chuck Reese
+u Crash Safety CAE: Rahul Makwana, Thomas Sheng
+u QA & STA: John Shin, George Raub
+u Core Rest. Buyer & GVT: Alex Piku, Tanisha Tisdell, Nick Gizzi, Jeffry Smith
+? Comad J-Detroit:
+u Tylor Park, Hyun Kim, Jack Chung, Regina Cho",,10,,
+2021-0017,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,CX748N/C RFQ ����,0.3,one_time,2021-10-21,,,"�ű����� (���� Ŀ����) RFQ ����
+1) ������������ : 11/20 17�� 
+2) ���Ŵ�� : Piku,Alexander 
+3) ������ : Richard Moss",,10,,
+2021-0018,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,CX748N/C TECH REVIEW,0.3,one_time,2021-11-02,,,CX748N/C TECH REVIEW,,20,,
+2021-0019,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,"V810 ����,�̱� �ű� RFQ ���� Ȯ��",0.3,one_time,2021-12-27,,,"RFQ �غ���, 22�� 1�� RELEASE",,10,,
+2021-0020,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,CDX 746/747 PROJECT ���� ���� ����,0.3,continuous,2021-12-27,2021-12-27,2021-12-27,"- 2023�� 7�� --> 24�� 12��
+- ������Ʈ�� ( U759/760 )
+- ������ ���浵 ����",,,2,2
+2021-0021,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,AR ���� ���οϷ�,0.3,one_time,2021-12-27,,,#NAME?,,5,,
+2022-0001,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,CX748N/C TECH & COST REVIEW,0.3,one_time,2022-01-17,,,"1. CX748
+- 1EC Requirement : Haider�� �䱸���� �����ߴ��� Ȯ���� üũ����Ʈ ��û��
+- 2nd Round : AutoMaker PEL(������ ���� ����Ʈ) �����Ϳ� ����ؼ� ������ ����� ��û ����
+- SOP������ ������ ����, �ش���� PEL���� �� �������Ͽ� ��ǰ�� ����� ����
+- ��ü���� ���Ŀ� P1EC, P2EC�ܰ迡��cost evaluation�� ���� ��ǰ���� �ϳ��ϳ� ���� ���� ����(with Mr. Pelchat)
+- CX748 ȯ�� ���� ��� �߰�
+�� ������������ USD�� ��������� ��������� Mexico���� �ӱ��� Peso�� ���޵�
+�� SOP������ �ӱݼ��ؿ� ���� ȯ�������� ����� ������
+�� ���� �ӱ� ������ � ȯ���� ������ �� �����ؾ� ��(746_747���� �ش� �ý����� ������� �ʾұ� ����)
+- Piece price�� �� �б⸶�� ������Ʈ �Ǵ� ������ ���� �� ȯ�� ������ ���� ���� �� ���� 
+- ������ �� ED&T cost�� ���� �����Ͼ �ܰ迡�� ������ ���̱� ������ ���� �ܰ迡���� ��ǰ �ܰ� ������ �ʿ���
+- Piku�� 748 �������� ������� ������ 746_747 ������ �Ǿ�� �Ѵٰ� ��
+- �߱��� �������� �ý����� �������� �����Ƿ� 748N�� ���� �� ����Ǹ� ��. 
+�߱� ������ ���������� ���������� ���������� �Ұ����ϴٰ� ����",,10,,
+2022-0002,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,P800/P812 RFQ ����(F-series EV),0.3,one_time,2022-01-24,,,"1. ��簳�� ���� �� �̽����� ����ȸ�� (1/25 ȭ���� 15�� ǰȮ��) : RD,AR,PT,PD �ֿ����� 1������ȸ�� �����̴� ������Ź�մϴ�.
+2. �������� ���� (1/25~1/28) : ���Ϸ� ���࿹��
+3. BOM���� (2/4) 
+4. ������ȼ� (2/9) : ���� TECH REVIEW ������ ���� ����������
+5. ���� (2/9) : �߽��ڻ������, �������� ����PEL�� ���α���(�ѱ�����VS�߽��ڻ���VS�߽��ڻ����������) ��
+6. ������(2/9)
+7. ���������(2/9) : Incoterms Ȯ�� �� ���û���� (�������Ȯ�ο�)
+8. �������ں�(2/9)
+9. ��ǥ�̻� 1���������� (2/15)",,3,,
+2022-0003,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,V801 EU/NA RFQ ����(VAN Transit),0.3,one_time,2022-01-27,,,"1. ��簳�� ���� �� �̽����� ����ȸ�� (1/27�Ϸ�)
+2. �������� ���� ȭ�� (2/8 ����) : WEBEX
+3. BOM���� (2/11) 
+4. ������ȼ� (2/??) : ���� TECH REVIEW ������ ���� ����������
+5. ���� (2/15) : V810�Ϲ� : �߽��ڻ������, (�ѱ�����������VS�߽��ڻ��갳��VS�߽��ڻ����������) ��
+V810���� : (�ѱ����������� VS�ѱ����갳��VS�������갳��VS���������������) ��
+
+6. ������(2/15)
+7. ���������(2/15) : Incoterms Ȯ�� �� ���û���� (�������Ȯ�ο�)
+8. �������ں�(2/15)
+9. ��ǥ�̻� 1���������� (2/21)",,3,,
+2022-0004,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,V801 TECHREVIEW (����/�Ϲ�),0.3,one_time,2022-03-18,,,"���� �� ������ ���� ���� ����
+- WLR+CLR ���� �����Ұ� --> PT�� �����ü����
+- FR �� ���ְ��ɼ� ����",,3,,
+2022-0005,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,P800 TECHREVIEW,0.3,one_time,2022-03-21,,,"���� �� ������ ���� ���� ����
+- ������TYPE ELR ���� �̽� ����
+- 3/28���ֿ� 2���� RFQ ���� (�������)
+- ��� ���ݼ��� ��������. ǰ�񺰷� ���Ͽ䱸���� ������
+- 2���� ���� 4��15�� �� �����",,15,,
+2022-0006,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,V801 NA 2�� ��������,0.3,one_time,2022-05-21,,,��ǥ�� ���� �� ���� ���� ����,,10,,
+2022-0007,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,U759/760 1EC ���ݸ��� ȸ��,0.3,one_time,2022-07-21,,,"BTS �������� ����
+���������� ���� ���� ���� ���� ��û - ���",,10,,
+2022-0008,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,U759/760 1EC ���ݸ��� ȸ��,0.3,one_time,2022-08-21,,,�䱸���� �ݿ� ����Ϸ�,,10,,
+2022-0009,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,AutoMaker ? Comad J Offsite Event,0.3,one_time,2022-09-23,,,"Annual meeting with U759-760 AutoMaker Team to build up close relationship in face-to-face
+AutoMaker (5):
+u Design & Release (DNR) Engineer: Robert Rudnick, Travis Raines
+u Core Restraint (AR): Edward DeSmet, Benjamin Ylima
+u Q/A Specialist: John Shin (STA Specialist, George Raub cancelled in last minute)
+u Alex Piku was not available while working remotely in Atlanta. We��ll meet separately when he comes in Detroit.",,20,,
+2022-0010,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,U759/760 F2EC ���ݸ��� �غ�ȸ��,0.3,one_time,2022-12-05,,,23�� 1�� 20���� ���� �Է� �ʿ�,,10,,
+2022-0011,TECH,AutoMaker,Purchasing,Alexander Piku,,,ME,"�� Purpose of visit: 
+- Audit of Comad J local engineering facility (Face-to-Face meeting with Comad J local staff)
+- Overview of Comad J Business: Commercial side, Product Portfolio, Global support network
+�� Visitors:
+- Core Restraints: Ed Desmet, Ben Yilima, Sone Sadakhom
+- D&R: Martin Veolker (Supervisor), Travis Raines
+- Purchasing: Alex Piku (Sr. Byuer)
+- Pre-PSC: Scott Verma (Future program manager)",0.3,one_time,2022-12-05,,,,,8,,
+2023-0001,TECH,AutoMaker,Purchasing,Scott Fraser,,F2EC,ME,Comad J / AutoMaker_U759/U760 F2EC Review,0.3,one_time,2023-02-08,,,"? Alex Piku gave positive feedback of Comad J
+? Scott is also familiar with Nick Gizzi
+? Michael Pelchat wants to conduct another OCE review but only on items that changed from last year, we should expect another review meeting in near future after we submit our data
+? Stated critical timing issue with tooling especially V/S again
+? Requested initial meeting between AutoMaker STA and our quality to ensure smooth PPAP process
+? AutoMaker planning to also visit our Mexico plant in the future (7��������)",,10,,
+2023-0002,TECH,AutoMaker,Purchasing,Scott Fraser,,Packaging,ME,Comad J / AutoMaker_U759/U760 F2EC Review,0.3,one_time,2023-02-18,,,#NAME?,,10,,
+2023-0003,TECH,AutoMaker,Quality,Ricardo Daniam,,SSMX Audit,ME,SSMX Plant STA Audit,0.3,one_time,2023-02-28,,,"- 23.02.28 AutoMaker STA���� SSMX Audit �ǽ������� �̺�Ȱ� ���Ƽ� Red flag ����
+- 23.06.13 AutoMaker STA �� ��湮 ����",,-30,,
+2023-0004,TECH,AutoMaker,Purchasing,Scott Fraser,,Fastner,ME,Comad J / AutoMaker_U759/U760 F2EC Review,0.3,one_time,2023-03-20,,,#NAME?,,10,,
+2023-0005,TECH,AutoMaker,Purchasing,Scott Fraser,,ED&T,ME,Comad J / AutoMaker_U759/U760 F2EC Review,0.3,one_time,2023-04-12,,,#NAME?,,10,,
+2023-0006,TECH,AutoMaker,Purchasing,Scott Fraser,,BTS ����,ME,Comad J / AutoMaker_U759/U760 F2EC Review,0.3,one_time,2023-05-08,,,"- BTS ��� ���� �� ALR MDS switch �߰� ���並 ���� �ش� ��ǰ cost breakdwon ��û
+- BTS ���� $11.00 �� ��Ÿ ���ú�ǰ $2.17�� ���� �Ϸ�(230602)
+- ALR swtich cost impact $5.00���� ����(230508)",,10,,
+2023-0007,TECH,AutoMaker,Purchasing,Scott Fraser,,,ME,U759/760 commercial weekly meeting,0.3,one_time,2023-05-25,,,Weekly basis meeting �������� commercial topic follow-up,,10,,
+2023-0008,TECH,AutoMaker,Purchasing,"Scott Fraser, Berra Scott",,P736,ME,P736 RFQ Review meeting,0.3,one_time,2023-06-08,,,"- 23.06.08 Technical review meeting�̾����� RD �������� ME���� ��ü�м��� ���븸 ������ ����. 6/15 �߰� meeting ���� ����
+- 23.06.15 Commercial weekly meeting ����. ��������� ���Ϸ� ���� P736�� ���� ���ǻ����� RFQ package ������ �Ǵ´�� AutoMaker������ �亯 ����",,5,,
+2023-0009,TECH,AutoMaker,Purchasing,"Scott Fraser, Berra Scott",,P736,ME,P736 1�� ���� ����,0.3,one_time,2023-07-21,,,"In attachment, you will find:
+Summary of our quotation
+ED&T mountain chart
+Tooling list & cost estimate
+Global cost breakdown for each part",,10,,
+2023-0010,TECH,AutoMaker,Purchasing,"Scott Fraser, Berra Scott",,P736,ME,AutoMaker PD Saltillo Plant Visit 1-3 Aug. 2023,0.3,one_time,2023-08-03,,,"Objective: Preliminary Audit
+Attendees: Monica Sanchez, Mariano Gomez, Mohan, Joe Kish, Michelle Browne
+Scott Fraser, Jorge Tapia",,20,,
+2023-0011,TECH,AutoMaker,Purchasing,"Scott Fraser, Berra Scott",,P736,ME,27MY P736 Front Seatbelts Design Competition RFQ - Comad J - Round 2,0.3,one_time,2023-08-18,,,Please see the attached graph illustrating Comad J��s competitiveness in piece price following Round 1 of the Design Competition. We look forward to seeing improvements in Round 2.,,5,,
+2023-0012,TECH,AutoMaker,Purchasing,"Scott Fraser, Berra Scott",,U759,ME,"Buckle with added felt pads
+cost ��������",0.3,one_time,2023-09-14,,,"The attachments you shared only address the R2HB-S613K21-AAW. We will still need the completed cost breakdowns (with felt pad) for the remainder of those that we are missing. (red)
+
+1st row
+R2HB-S61209-AAW
+R2JB-S61209-AAW
+3rd row
+R2HB-S613K21-AAW - Received
+R2JB-S613K21-AAW",,5,,
+2023-0013,TECH,AutoMaker,Purchasing,"Scott Fraser, Berra Scott",,U759,ME,AutoMaker PD Saltillo Plant Visit 19-21 Sept. 2023,0.3,continuous,2023-09-14,2023-09-19,2023-09-19,"Objective: Planning Progress, Detailed Manufacturing Plan, Floor lay-out
+Attendees: Chuck Reese ? Chief Manager, Michelle Browne ? AutoMaker PD
+Martin Voelker ? PD Supervisor, Jorge Tapia, Erendira Perez ? AutoMaker PD",,,2,2
+2023-0014,TECH,AutoMaker,Purchasing,"Scott Fraser, Berra Scott",,U759,ME,AutoMaker U759-760 FDJ BB SAMPLE ����,0.3,one_time,2023-10-07,,,"Can you provide more detail on when your order was placed, and how many weeks you are estimating you will be late to DCV? This info will help me draft that request to WDP.",,10,,
+2023-0015,TECH,AutoMaker,Purchasing,"Scott Fraser, Berra Scott",,U759,ME,U759 LLF Tooling Issue,0.3,one_time,2023-10-07,,,Re-Scheduling this meeting to discuss on the attached mail query from supplier,,15,,
+2023-0016,TECH,AutoMaker,Purchasing,"Scott Fraser, Berra Scott",,U759,ME,AutoMaker PD & STA Plant Visit. Buckles for Magna DCV 11-13 Dec. 2023,0.3,one_time,2023-12-13,,,"Objective: DCV Tier 2 Build (buckles for Magna)
+Attendees: Mariano Gomez ? Site STA, Martin Voelker ? PD Supervisor
+Michelle Browne ? PD Manager Jorge Tapia, Erendira Perez ? AutoMaker PD",,10,,
+2024-0001,TECH,HKMC,Purchasing,����������,E-mail,"2,3�����»�","�ſ������, �ǿ������, ����������","1. 2,3���� ���� ���� � 
+2. ���־�ü ���� ���� ���μ��� �
+3. �������»� �μ�Ƽ�� / ���Ƽ �
+4. �������»� ���ǰ������ ���� ����
+5. �������»� ������ �����",0.3,continuous,2024-01-02,2024-12-31,,,,,,
+2024-0002,TECH,AutoMaker,Purchasing,"Scott Fraser, Berra Scott",,U759,ME,AutoMaker PD AutoMaker PD & STA Plant Visit. Seat Belts assemblies DCV build 15-18 Jan. 2024,0.3,one_time,2024-01-18,,,"Objective: Objective: Seat Belts assembly DCV build
+Attendees: Monica Sanchez, Mariano Gomez, Vladimir Tecozautla, 
+Manuel Nunez ? Site STA 
+Daniel Sangines, Jorge Tapia, Erendira Perez ? PD",,5,,
+2024-0003,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"AutoMaker STA, FDJ Quotation Break Down Review editing request
+- FDJ ���� ���� ��, STA�� ���� ��û ���� �ݿ�",0.5,continuous,2024-02-21,2024-03-15,2024-03-06,"> D-ring Assy ���� ������ ����
+> 3�� ��Ŭ EO�� ���� ���� ����(��>������)
+> Buckle CP ǰ�� ���� �� ���� ����(MASS ����, Connectiong Type �ݿ�)
+> Felt Pad ������ ���� ����
+> Webbing Assy ���� ����(Webbing ���̿� ���� �ݿ�)",,,5,5
+2024-0004,TECH,AutoMaker,Purchasing,Scott Fraser,"Oakland, AutoMaker",U759,��������,"AutoMaker PD & STA, OAC Plant 21-22 Feb. 2024",0.3,one_time,2024-02-22,,,"Objective: Sch A, APQP, PPAP and Homeline progress check",,7,,
+2024-0005,TECH,AutoMaker,Purchasing,Scott Fraser,Ariba System,U759,�������븮,"Ariba RFP for CPA submit request
+- T1 CPA ���� �Է� ��û",0.3,continuous,2024-02-22,2024-03-02,2024-02-26,�ý��� �Է� �Ϸ�,,,5,5
+2024-0006,TECH,AutoMaker,Purchasing,Scott Fraser,Covisint System,U759,�������븮,AutoMaker internal Torque Test SMPL Quote Request,0.3,continuous,2024-02-26,2024-04-01,2024-02-22,"���� Torque Test�� ���� ���� ���� Ȯ��
+> RD�� ���� ǰ�� Ȯ��, PD�� ���� Ȯ�� �� ���� �۾�",,,5,5
+2024-0007,TECH,AutoMaker,Purchasing,Scott Fraser,E-mail,U759,�������븮,"Ariba RFP for CPA submit edit request
+- ����� ���� �� Rounding error�� ���� ���� ��û(B84 & B85)",0.2,continuous,2024-03-03,2024-03-07,2024-03-05,���� ���� �Ϸ�,,,5,5
+2024-0008,TECH,AutoMaker,Purchasing,Scott Fraser,Ariba System,U759,�������븮,"Ariba RFP for CPA submit request
+- DT2 CPA ���� �Է� ��û 
+
+* 2�� ��Ŭ ǰ�� ���濡 ���� �ش� ǰ�� ���� ���� ���� Ȯ�� �� �Է�",0.2,continuous,2024-03-08,2024-03-22,2024-03-18,�ý��� �Է� �Ϸ�,,,5,5
+2024-0009,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759 / P736,�������븮,"Weekly Commercial Meeting
+- �Ϲ� ���α׷� ��Ȳ ����
+- CPA ���� �Է� ���� ���� �Ϸ� > Program Team ���� ���
+- Tooling Cost : Long Lead Funding ������ ���� �Ϸ� �Ǿ���
+(�Ա� ���� ������ Ȯ�� ��û)
+�ܱ��� CPA ���� ���� ����� ����",0.3,one_time,2024-03-28,,,,,1,,
+2024-0010,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759 / P736,�������븮,"Weekly Commercial Meeting
+- �߰� �߻��� ���鿡 ���� û�� ���� ����
+Magna�� ����Ͽ� AutoMaker û���ؾ� �� �׸�� �����ؼ� ���� ���� - ���籸 �ڻ�
+
+
+* ���� �� �ܰ迡�� ���� ���ϰ� �Ǵ� ����� �ִٸ�, P736 ���� ���⶧ ED&T�� ������ û�� ����",0.3,one_time,2024-03-28,,,,,2,,
+2024-0011,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759 / P736,�������븮,"Weekly Commercial Meeting
+- P736 ���α׸� ���� ���� ����
+��� ���� 2026�⿡�� 2028������ ����
+�������� �����ϳ�, ���� ���� ���� ���� ���ɼ����� ����, ���� �ٽ� ���� ����
+���� ������ Ȯ���� ���� �Է� ��û�� ����
+
+
+*�̸� ���� �� �� �ʿ� �־� ����
+*�� �� ED&T�� �����ؾ� �Ѵٰ� �� - ���籸 �ڻ�",0.3,one_time,2024-03-28,,,,,1,,
+2024-0012,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U 759,�������븮,"AutoMaker internal Torque Test SMPL Quote Request
+���� ���� ���� �� �Ϻ� ���� ��û 
+- RETRACTOR 5���� ���� QR�ڵ� �� ���� �߰� 
+-RTR DLL + SHIM + WELD NUT �׸� �� SHIM ���� ��û",0.3,continuous,2024-03-29,2024-04-04,2024-04-02,���� ���� ���� ���� �Ϸ�,,,5,5
+2024-0013,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"LLF Funding Meeting
+> Ariba System ����� RFP Ȯ�� �� ����",0.3,continuous,2024-04-04,2024-05-03,2024-04-12,"6�� ǰ�� ���� �Ϸ�
+* ������ ǰ���� �̹���",,,5,5
+2024-0014,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Weekly Commercial Meeting
+- �Ϲ� ���α׷� ��Ȳ ����
+- Gokulraj�� Tooling ���� ��� ����
+> LLF �ݾ� Ȯ�� �� ���� ���μ��� Ȯ�� ����
+- �ű� ǰ�� ���� ����
+FDJ �ܰ迡�� �ű� �߻��� 44BAW, 45BAW�� ���� �ܱ� ó�� ��� ����
+> STA���� ���� �� ó�� ��� �ȳ� ����",0.3,one_time,2024-04-11,,,,,1,,
+2024-0015,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Weekly Commercial Meeting
+- ���α׷� SOP ����( > 2027-08)
+- Official Notice
+�߰��� ��Ȯ�� ���� ������ ��� �������� ����
+
++ �ش� ������Ʈ ���⿡ ����, �ٸ� ���� ���� ���� ����
+> P768(F-150), CX823(EU EV) ���� 12���� �� ����
+���� ������ �� �ֵ��� �ȳ� ����.(Scott Fraser)
+
++ Tooling Cost ���� ���� ������ �ش� ����� ���� ���� 
+",0.3,one_time,2024-04-11,,,"- Official Notice
+SLP(Supplier Learning Portal)�� ���� ��� ��ü�鿡�� Official Notice �߼������� ����� ���� ���� ����
+> Admin ������Ʈ�� �ȵǾ� �־� ������ ��
+(Scott, �����/�λ���� �����ּ� ����ڿ��� ����)
+> ���� ��Ȯ�� ���� ������Ʈ �ش� ���Ϸ� ���� ����
++ �߰��� �ǹ��� ���� ���� ���� Ȯ�� ���ֱ�� ��
+- Scott�� ��Ȯ�� �� ������ �ϴ޹��� ��������, ���� �������� ���� ��� ���� Ȯ��
+> FDJ : 2025-11 / DCV : 2026-05 / JOB 1 : 2027-08
+�߰��� ��Ȯ�� ���� ������ ��� �������� ����
+- �߰� �߻� ���(ED&T��)�� ���� û�� ����
+
+3. ���� �湮 ���� ����
+- ��ü ���� ���� �� ��� ���� �湮�� ��/�� �� 1�Ͼ�
+- Manager Level�� �湮 ����, ���� �Ŵ��� Jim Hixson",,2,,
+2024-0016,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Weekly Commercial Meeting
+- ��� ���� �湮 ���� Ȯ��
+��ü ���� �� ��� ���� �湮�� ��(2��) ��(1��)
+Manager Level�� �湮 ����, ����-James Hixon",0.3,one_time,2024-04-11,,,,,1,,
+2024-0017,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Weekly Commercial Meeting
+- �Ϲ� ���α׷� ��Ȳ ����
+- Tooling Cost ��Ȳ ����
+- �ο� Ȯ�� ���� (Tom�� ��� �� �Ҽ�����?) 
+���籸 �ڻ� �˱�δ� Supply Strategy Team ���� �ƴµ�, Scott�� STA�� ���� �޴������ �亯. 
+> �����Ͽ� ������ ������ �� ����",0.3,one_time,2024-04-18,,,"- Tooling ���� ����
+6�� ǰ�� Ariba RFP Ȯ�� �� Covisint TO �۾� �Ϸ�
+> �ٸ� ǰ���� ó���� �ʾ����� ���� Scott Ȯ�� ����",,1,,
+2024-0018,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Weekly Commercial Meeting
+- ���α׷� ���� ���� ���� ����
+- ���� ���� ���� ������ �ϴ޵��� �ʾ�, ���� ������ ������ �� 
+- �� ���� Ȯ�� �� �ݿ� ����",0.3,one_time,2024-04-18,,,"-1. ED&T Cost ���� ����
+Comad J : ���� �߰� �߻��ϴ� ��뿡 ���ؼ��� ��� ����Ǵ���?
+AutoMaker : ���� Ȯ���� ���� ����. ������ Ȯ���� �ʿ��� ���δ�.
+S : �̹� �߻��� ED&T ��뿡 ���� ���� ��� �����̾��� 2025�� �������� ��û�� �� ������ ��������?
+F : 4�� 24�� ����10��(�̱� �����ð�) �������� ȸ�� �����̸�, ������ ������ ���ֿ� �˷��ְڴ�.",,1.5,,
+2024-0019,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Weekly Commercial Meeting
+- ���� ���� ���� ���� ����(P736 P768 CX823)",0.3,one_time,2024-04-18,,,"-1. P736(F-150)
+2028 ��� �����̸� ���� ������ ���䰡 ������ �ʾ���
+(2024-08 ������ Ȯ�� ����)
+��������� ������ ���� ���� �� �ϸ�, ���� ���浵 �ʿ����� �ʾ� ����. �ٸ�, ���� ������ ������ �Ͼ �� �����Ƿ� ���� �� ���Ѻ� �ʿ� ����.
+(ED&T �κ��� ����� �ʿ��� ����)
+-2. P768(F-150 Super Duty)
+������ �ȳ��ߴ� ����� ���� ����, ���� 12���� �� ���� ���� ����
+-3. CX823(SUV EV for EU)
+������ ������ �϶����� ���� ���� ������ �Ͼ �� �ִٰ� ����",,1.5,,
+2024-0020,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Weekly Commercial Meeting
+- �Ϲ� ���α׷� ��Ȳ ����
+- Tooling LLF ��Ȳ
+- Tooling ���� ����
+- ���� ���� ��Ȳ : DCV�� DV �׽�Ʈ�� ���� ������� ���� �غ� ��
+- ED&T ��� ��û�� ���� ����
+> Jim Hixon�� Michelle���Ե� ����, ���� ������ ���� ��� Ȯ�� �ʿ�
+(���� ������ ED&T �� 80~90%�� ����Ǿ����� �ȳ�)
+
+* Tooling Cost ���� ������ �Ϸ�� �� �ְ� ȸ�Ǹ� ���� ȸ�Ƿ� ��ȯ�� ����
+
+",0.3,one_time,2024-05-02,,,"- Tooling ���� ����
+- �ܿ� ǰ�� Covisint�� ���� RFP ���� �Ϸ� �ȳ�.
+���� Gokulraj�� ���� Ȯ�� ��û�Ͽ�����, ��ȸ�� ��Ȳ ����.
+> 5/3�� Remind �߼۽� Scott �� CC�� �ɸ� ������ Ȯ���� ���� �� ����
+- SOP ���⿡ ����, Tooling�� ���� ��ȹ��� �����翡�� ��� �������� Ȯ�� �ʿ�(�念�� �̻��) 
++ ���� �׷��ٸ� �׿� ���� Tooling ���� ����� �߰������� �߻��ϴ� �Ϳ� ���� ��� Ȯ�� �ʿ�(������ �븮��) 
+",,1,,
+2024-0021,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Weekly Commercial Meeting
+- ���� ���� ��ǥ ����",0.3,one_time,2024-05-02,,,"P 736 : ���� ��ް� ���� 8���� ������ ���� �����̸�, 12���� ���� ���� 
+(8~12�� ���̿� ���� ������� �ʿ��� ��� �غ��� ��) 
+P768 : 736���� 2���� ���� 25�� 2���� ���� ����, ���� ���Ǽ��� ���� 736�� ��� ������ ���� ������ �ȳ� 
+CX823 ; EV�����̶� ���� �������� �ʾ���",,1,,
+2024-0022,TECH,AutoMaker,Engineering,Michelle Browne,SSSJ,U759,�������븮,"Beijing Plant Visit
+- ���� ���� �� ���� �Ϲ� ����
+(���԰˻�>����â��>��������>�ʱ������˻�>����) 
+",0.3,one_time,2024-05-16,,,"- ���԰˻� ǰ���� ����â�� ���� ����
+> �˻� ���հ� ��ǰ�� ����â���� ���� ���� ������ �� �ִ� ������ ��ȿ� ���� ��� �ʿ�
+
+- ���� ������
+> ������ ���ο� ���Ե� �� ��Ʈ ���� ��������?
+(����-�ϼ�ǰ LOT ����Ǿ� �־� ���� ����)
+
+- ���� �� �˻� ���� ����
+> ���� �� �˻翡�� NG�� �߻��ϸ� ó�������?
+(����ڽ� ����Ͽ� ��� ����)
+
+- �ʱ� ���� �˻� ���� ����
+> ��� ��ǰ�鿡 ���� �ʱ������˻簡 �ǽõǴ���?
+(AutoMaker�� ���� 100%, ������� �ʱ� 3���� �� �̽� �߻��� 3���� �����ϵ��� ���ǵǾ� ����)
+
+- LAT TEST ����
+> LAT TEST ��� ����������?
+(��� AutoMaker�� �����Ͽ� �ʱ� 3���� ���� ���� ������)",,6,,
+2024-0023,TECH,AutoMaker,Engineering,Michelle Browne,SSSJ,U759,�������븮,"Beijing Plant Visit
+- Traceability ���� �ý��� �ÿ� �� ���� �亯",0.3,one_time,2024-05-16,,,"- Traceability ���� ���� #1
+> COP �˻� NG �߻��� �ʱ� ���԰˻� �ܰ������ ����� �����ؼ� Ȯ�� ��������?(YES)
+
+- Traceability ���� ���� #2
+> PO�� MRP�� �Է½� ���� ������ ���� ���ְ� �ڵ����� �̷��������?(YES)",,3,,
+2024-0024,TECH,AutoMaker,Engineering,Michelle Browne,SSSJ,U759,�������븮,"Beijing Plant Visit
+- Wrap-Up",0.3,one_time,2024-05-16,,,"> �ϰ� ������ Traceability ������ ���� ��
+�߽��� �ڵ�ĳ�� ���׸� �߽��� AutoMaker�� STA���� ����Ͽ� ���⿡ ���� �ҾȰ��� �־���. 
+������� ���� ���� �� ü��ȭ�� �ý��� ������ �ʿ��ϴٰ� ����������, �� ���ʸ� �ϰ� ���忡�� �� �� �ϴ�. 
+���� ���� ���� ������ �������� SSMX�� Traceability �ý��۵� ������ �ֱ� �ٶ�.",,3,,
+2024-0025,TECH,AutoMaker,Purchasing,James Hixon,TECH,U759,�������븮,"Changwon Plant Visit(Day1)
+- �Ϲ� ��Ȳ ����
+> ���α׷� ������ ���� ���� ��� ���� ����",0.3,one_time,2024-05-21,,,"1) ȸ�� �Ұ� �� ���α׷� ��Ȳ ����
+- ED&T - SOP ���� ���� ��� ó�� ��� ����
+> J Hixon : �߰� ���䰡 �ʿ��ϴ� ���� ������ �ۺ� �ָ� ������ ȸ���ְڴ�.
+(ED&T ���� �� 26���� ���⿡ ���� ���ں�� ���� �ʿ�)
+
+2) ���� ���� ����(���԰˻�>��������>�ϼ�ǰâ��>���۽�)",,3,,
+2024-0026,TECH,AutoMaker,Engineering,Michelle Browne,TECH,U759,�������븮,"Changwon Plant Visit(Day1)
+- SSMX ���� G-ERP �ý��� ���� �ǰ�",0.3,one_time,2024-05-21,,,"- G-ERP at SSMX
+> ���� ���� �Ϸ� ���� ���� �� ���� ���� ��û
+(�Ϸ� ������ 2024-09������ ����)",,3,,
+2024-0027,TECH,AutoMaker,Quality,Tom Ludwig,TECH,U759,�������븮,"Changwon Plant Visit(Day1)
+- ǰ�� ���� ���� ��������",0.3,one_time,2024-05-21,,,"- Supplier PPAP ��Ȳ ����
+> ���޻� PPAP ���� AIAG�� 18�� ������ �����ؾ� �ϸ�, �̿� ���� ������Ʈ�� �ʿ���
+
+
+- ���޻� ǰ�� ���� ����
+> ���޻� �򰡸� �ý��������� ����ϰ� �ִµ�, �̿� ���� ��� ��ȿ� ���� �ʿ伺 ����",,5,,
+2024-0028,TECH,AutoMaker,Quality,Tom Ludwig,TECH,U759,�������븮,"Changwon Plant Visit(Day2)
+- Open Issue List ���� ��������",0.3,one_time,2024-05-21,,,"3) Open Issue List ����(SSMX ���� �湮�� �������׵�)
+
+> ���������� ����ߵ� ���� Traceability ������ �ٸ� ����� �������� �ö���� ���� ������� �ֵ��� ����� �ʿ��ϴ�. 
+�� ��¿� ���� AutoMaker�� �����̳� ���̵尡 �ʿ��ϸ� �󸶵� ������ �� ������, AutoMaker�� �� ���� �ֵ��ϴ� ���� �ƴϴ�. 
+�ʿ��ϸ� ������ STA������ ȸ�ǳ� ������ ���ض�.",,3,,
+2024-0029,TECH,AutoMaker,Engineering,Michelle Browne,TECH,U759,�������븮,"Changwon Plant Visit(Day2)
+- ���� ���� �� ���� ����",0.3,one_time,2024-05-22,,,"1) �˻� �ü� ����(��ġ��ŷ��>�����)
+- �ű� ����ǰ ���� ����(PPB, EVS ����)
+- ����ǰ Traceability ����
+> M Browne : �������� ���� ������ �Է��� ����� �ϰ��ִµ�, Barcode �� �����Ͽ� ���� �� ��Ȯ���� ���� �ʿ䰡 �ִ�.
+
+-RD-ST ���� ����
+> M Browne : ���� ���࿡ �����Ͽ� ���ݴ� RD���� ������ ������ ����Ǿ�� �Ѵٰ� ����. �ܼ��� �������� ���� NG�� �����ϴ� �� ����, ���� �غ���� �߰��߰� üũ�ϱ� �ٶ���.",,3,,
+2024-0030,TECH,AutoMaker,Engineering,Michelle Browne,TECH,U759,�������븮,"Changwon Plant Visit(Day2)
+- ���� Resource ���� ��������",0.3,one_time,2024-05-22,,,"2) AutoMaker Project ������ ���� (Engineer �İ� ��)
+> U759/760 ������Ʈ �� �ƴ϶� ���� ������� ��Ʈ�ʽ��� ������ ���� ���� �İ��� �ʿ��ϴ�.
+
+- ���� Resource ����
+> �������� AutoMaker ������Ʈ ������ ���ؼ��� ���� �ڿ� Ȯ�� �� ������ ����� �ʿ�.",,3,,
+2024-0031,TECH,GM,Quality,"���������, ����������, �ǽſ�",KATRI,B175�ڱ�����,"���繮����, ���������","1. B175 BKL �ڱ���������� ���� �Ϻμջ� ���� ������ ó��
+2. KATRY �Ҹ� �䱸. �Ϻ� �Ѽյ� ���¿��� �̻������ Ȯ������",0.3,continuous,2024-06-10,2025-01-31,2025-01-10,"1. ���� ������ ���� �Ѽ��� ( 10%����_ 22������ 4���� �Ѽ�) 
+L DB5 ��� ������� ����. 
+2. 24/12/27 �� GM + KATRY ��������Ϸ�. -> �������� �Ҹ���. 
+3. KATRI �ǽſ� å�� Ȯ�� �Ϸ�. �������� ũ��¡. 24�� ��ü ���� �Ϸ�.",,,2,2
+2024-0032,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Monthly Commercial Meeting
+- �Ϲ� ���� ���� �亯 (ED&T, Tooling Cost, �ѱ�&�ϰ� �湮�� �ֿ� ����)",0.3,one_time,2024-06-13,,,"1. U759&760
+- ED&T
+: ED&T ���� ���� ���� 28������ ���� ���ں�� �����Ͽ� ����
+> (Mr. Fraser) 3���� ������ Mountain Chart ���� ��û(���ֽ���, F2EC(2�� CTR BKL ����), Additional(���� �߰� ���� ���� ����)
+> (Dr. Jung) Additional Version�� ���� RD ����ö ���� Ȯ�� �ʿ�)
+
+- Tooling Cost
+: LLF�� ���� ���� ��Ȳ ����(TO���� �Ϸ� �� �Ա� ���)
+> (Dr. Jung) �ܱݿ� ���� ���� ���� ��û�� ��
+
+- Cancelation Form
+(Mr. Fraser) �̸��Ϸ� Cancelation Form ��� ����
+�Ϻ� ��Ʈ�� ������ ��ҵǴ� ���, �׿� ���� �̹� ���ڵ� ��뿡 ���� û���� ���� �ش� ��� ���. �̸� �ͼ��� �� ��.
+
+2. �ѱ�&�ϰ� �湮�� ���� �ֿ� ���� ����
++ ���ڵ� ��뿡 ���� ���α׷� ��������, �߰����� ���ְ� �ʿ��ϴٴ� �� ����",,2,,
+2024-0033,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Monthly Commercial Meeting
+- ���� ���� ���� ���� ���� �ȳ�(P736)",0.3,one_time,2024-06-13,,,"- ���� ���� ���� ���� (2024-08)
+���� ���� ������ ���� ������ �ʿ��� ���, �� ������ ���� ��û�� �ؾ� ��
+> (Dr. Jung) ED&T Cost�� U759�� 2��� �Ǿ�� ��, Labor �ð��� 200$ ���ر��� �÷� ���� ��� �� �ݿ��� ��
+> ���� ED&T ��� ������ ���� �ٰ� �ľ� �ʿ�(7�� 19�� ��)
+> �����Ͽ� ���� Weekly Meeting �ʿ�(�念�� �̻�, ����ö ����, �̿�� ���� ���� �ʿ�)
+",,3,,
+2024-0034,TECH,AutoMaker,Purchasing,Scott Fraser,E-mail,U759,�������븮,"Tooling Status
+- ���� ���� ��Ȳ�� ���� �� ���� ����",0.3,continuous,2024-07-09,2024-07-09,2024-07-09,"Are the tools complete = 
+Number of Tools = 
+Value of Tools ($USD) = 
+Facility / Address where the tool will be stored =",,,2,2
+2024-0035,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Monthly Commercial Meeting
+- �Ϲ� ���� ���� �亯 (PD Meeting & Tooling Cost)",0.3,one_time,2024-07-11,,,"1.PD Meeting
+S/Fraser : PD ���ÿ� ���� ���� ��Ȳ ����
+> �ֱ������� �������̸�, 
+�ְ����� 2�ְ����� ȸ�� ���� ����Ǿ����� �ȳ�
++ SSMX AutoMaker Home-line�� ���� STA�� Audit �����Ͽ���
+S/Fraser : ����� ���� ����
+> ū ���� ������ ��������, �� ���� �ǵ�鿡 ���Ͽ� 
+Open Issue�� �ۼ� �� ���������� ������ �����Ͽ� 
+���� ������ �ȳ�
+
+2.Tooling Cost ��Ȳ
+A.Long Lead Funding
+���� ������ ���� Ȯ�ε��� �ʴ� �κ� ��Ȳ ����
+S/Fraser : ���� �ۺ��� �� Ȯ��������, �ִ��� ������
+�亯 ���� �� �ְ� ���� �� ����
+B.�ܱ� ����
+Gokulraj���� ���� ��û�� ������, Gokulraj�� PD ������ 
+Ȯ���� ������ ������ �˰� ������ ����
+S/Fraser : 2�� �ı��� �߰����� ���� ������ ���ٸ�, 
+�˷��ָ� ������ ���� ���� �� ����
++ ���α׷� Delay�� ���� ���� ������ Ȯ���� �� ���� 
+��Ȳ�̸� ���� Ȯ���Ͽ� �˷��� ����
+(2024-07-19 ���� ��ٷ� �� �� ���� ���� ���� ����)",,2,,
+2024-0036,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Monthly Commercial Meeting
+- ED&T ���� ���̿� ���� ����",0.3,one_time,2024-07-11,,,"1EC > F2EC > FDJ �� �ܰ��� Mountain Chart 
+�м��Ͽ� ����
+S/Fraser : �� �ܰ��� Timing ���� �ʿ��ϸ�, 
+U759 1EC ������, CDX ������Ʈ ������ F2EC ������
+�񱳵� �� �ֵ��� �ϸ� ���� �� ����
++ Dr. Jung : CDX-F2EC > U759-1EC ���̿� 
+18month Dealy, 1EC > F2EC ���̿� 2month delay�� 
+���� Labor Adjustment ��� �߰� �ʿ�
+�߰��� 2nd Row CTR BKL(Sliding Buckle)�� ��Ȯ��
+���� ���� �� ���� ��뿡 ���� �ٰ� ���� �ʿ��� ����",,3,,
+2024-0037,TECH,AutoMaker,Purchasing,Martin Decker,Conference Call,CX735,�������븮,New Program Meeting,0.3,one_time,2024-07-23,,,"CX735 ���� RFQ ���� ���� ���� ����
+
+-Bronco Sports ���� ���� 25���� ���� ����(�Ϲ� 15��, ���� 10��)
+-�븥 �����ҿ��� ����, ��������� ������ �߷��þ�
+-����� ü�� ���忡�� ���� ����(�ڼ��� ������ Ÿ�Ӷ��� �� Ȯ���ؾ� ��)
+8�� �� RFQ ���� �Ŀ� �ٽ� ���� ���� ����",,5,,
+2024-0038,TECH,AutoMaker,Purchasing,Martin Decker,Ariba System,CX735,�������븮,FRQ ��������,0.5,continuous,2024-07-30,2024-09-14,2024-09-13,��������䱸 2024-09-14,,,4,4
+2024-0039,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Monthly Commercial Meeting
+- ED&T Summary ������Ʈ ����",0.3,continuous,2024-08-08,2024-08-08,2024-08-08,"��� �ڷ� ������Ʈ ���� ���� �� Mountain Chart ����
+S/Fraser : ���� ���Ϸ� ���� ��û. ���� Thompson ���� ����",,,5,5
+2024-0040,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Monthly Commercial Meeting
+-Tooling Cost(Long Lead Funding ���� ��Ȳ ���� �� �ܱ� ���� ���� ����)",0.3,one_time,2024-08-08,,,"Long Lead Funding �ڱ� ������ ���� Ȯ�� ��û
+S/Fraser : �系 Ȯ�� �� ���� �� ����
+Left Over ���� ���� ���� Ȯ�� ��û
+S/Fraser : �系 Ȯ�� �� ���� �� ����",,1,,
+2024-0041,TECH,AutoMaker,Purchasing,Martin Decker,Conference Call,CX735,�������븮,"RFQ Tech Review
+- RD�� �غ��� ������ ����Ʈ ���� �� �ǵ�� Ȯ�� 
+- RFQ ���� ���� Ȯ��(���� ���� ���� ��û 09/06>13)",0.3,one_time,2024-08-13,,,,,2,,
+2024-0042,TECH,AutoMaker,Purchasing,Scott Fraser,E-mail,P736,�������븮,Pre-RFQ ����,0.3,continuous,2024-08-21,2024-08-26,2024-08-26,#NAME?,,,3,3
+2024-0043,TECH,AutoMaker,Purchasing,Scott Fraser,Ariba System,P736,�念���̻�,"FRQ ��������
+��������䱸 2024/10/11",0.5,continuous,2024-09-06,2024-10-11,2024-10-11,"1. ��������䱸 2024/10/11
+2. TECHREVIEW ���� ���� �亯 �����
+3. ���ΰ����غ� 
+1) RD : BOM,�����缭 (9/20)
+2) CP : ���� (9/24)
+3) PD : ������, ����ǰ ���� (9/24)
+4) PT : �������ں� (9/24)
+5) PM : ����/����� (9/24)
+6) ME : 1������ ���� (9/27)",,,3,3
+2024-0044,TECH,AutoMaker,Purchasing,Martin Decker,Conference Call,CX735,�������븮,"Quotation Brief Review
+-�Ϲ� ���� ���� �亯",0.3,one_time,2024-09-20,,,"1. Mountain Chart �ۼ� ���� ��ȭ ���� (EUR)
+2. CBD Summary ���� ���� ���� (Packaging Cost Assembly�� ���� �ȳ�)
+3. Prototype Multiplier ���� (3��� �ȳ�)",,1.5,,
+2024-0045,TECH,AutoMaker,Purchasing,Martin Decker,Conference Call,CX735,�������븮,"Quotation Brief Review
+- Tooling List�� ED&T�� ���� Sumamry ���� ��û",0.3,continuous,2024-09-20,2024-09-26,2024-09-26,"Tool List ���ϰ�, ED&T Summary �ۼ��Ͽ� ���� �ۺ�",,,5,5
+2024-0046,TECH,AutoMaker,Purchasing,Martin Decker,Conference Call,CX735,�������븮,"Quotation Brief Review
+-RFQ �Ϲ� ���׿� ���� Term Sheet �ۼ� ��û",0.2,continuous,2024-09-20,2024-09-26,2024-09-26,���� ���� �� ������ �λ���� �����Ͽ� ������ �ۺ�,,,5,5
+2024-0047,TECH,AutoMaker,Purchasing,Martin Decker,Conference Call,CX735,�������븮,"Quotation Brief Review
+- CZ Factory ���� ����
+
+*MFG SITE CODE�� ���ؼ��� ���� �ܰ� ���� ���� ���̵� ���� ����",0.2,continuous,2024-09-20,2024-09-26,2024-09-26,ü�� ���� ���� ��ȹ ���� �ڷ� �ۺ�,,,5,5
+2024-0048,TECH,AutoMaker,Purchasing,Martin Decker,Conference Call,CX735,�������븮,"Technical Review
+- RD ���������� Commercial�� ����
+
+- Tooling list & ED&T �ݾ� Ȯ��
+- Packaging ��Ȯ�� Ȯ��",0.3,one_time,2024-10-01,,,,,1,,
+2024-0049,TECH,AutoMaker,Purchasing,Martin Decker,Conference Call,CX735,�������븮,"Technical Review
+- Packaging Spec Ȯ�� �� CBD Summary �� Packaging Cost ���� Ȯ��
+> Packaging Cost ���� ���� Ȯ��
+> CBD ���� �� ���� ���� Ȯ��",0.3,one_time,2024-10-02,,,Ȯ�� �亯 ���� E-mail �ۺ�,,1,,
+2024-0050,TECH,AutoMaker,Engineering,Martin Kizil,Conference Call,CX735,�������븮,"Technical Review
+- Technical �Ϲ� ���� ����
+- Anchor P/T Boots ��ǰ ���� �̹��� �ۺ� ��û",1,continuous,2024-10-02,2024-10-07,2024-10-04,"1. ������ȼ� ���� Ȯ��
+- D-ring ��Ʈ ��� IMG�� ǥ�� ���� ����(IMG�� �������̸� ǥ ������ ���� �ȳ�)
+- BTS�� ALR MDS ���� ���� (���� ǥ���� ��� BTS, �ƴ� ��� MDS ���� �ȳ�)
+- Anchor P/T Boots ��ǰ Ring ���� Ȯ�� ����(���� Ȯ�� �����ϸ� IMG �ۺ� ����)",,,5,5
+2024-0051,TECH,AutoMaker,Purchasing,Scott Fraser,E-mail,P833,�������븮,"RFQ ����
+- 2024-11-15 ����",0.7,continuous,2024-10-08,2024-11-15,2024-11-14,"1. ��������䱸 2024/11/15
+2. ���ΰ����غ� 
+1) RD : BOM,�����缭 (10/22)
+2) CP : ���� (10/24)
+3) PD : ������, ����ǰ ���� (10/24)
+4) PT : �������ں� (10/24)
+5) PM : ����/����� (10/24)
+6) ME : 1������ ���� (10/30)",,,3,3
+2024-0052,TECH,AutoMaker,Purchasing,Martin Decker,E-mail,CX735,�������븮,"Package Cost Break Down Request
+- Returnable Box ���� Ȯ�� �����Ͽ� �� ���� ��û",0.1,continuous,2024-10-09,2024-10-11,2024-10-11,"���� ���� Ȯ�� ���� �ۺ�
+> Quotation Breakdown�� Packaging�� ���� ������� Assembly Cost�� ���Ե��� �ȳ�",,,3,3
+2024-0053,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Monthly Commercial Meeting
+- �Ϲ� ����
+11/8 SSMX STA(Mohan) ���� �湮�� ��� ���� Ȯ�� �� �ٽ� �˷��� ����
+- Cancellation Form Review",0.3,one_time,2024-10-10,,,"- 11/8 �����Ǿ��� SSMX���� AutoMaker STA(Mohan) �湮 ������ Ȯ�� �� �ٽ� ����� ����
+
+- ���۽��� ED&T�� �߰��� ��
+- Toggle�� ������ �� ���� ���, ���±���� �����ص� �ǳ�, ������ ������ ��
+- �켱 ���� ������ ����, STA�� Scott�� ���� �����Ͽ� ���ο��θ� ������ ����",,0.3,,
+2024-0054,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,P833,�������븮,"Monthly Commercial Meeting
+- ���� ���� ��� ����
+- Tech Review ���� ���� ����",0.3,one_time,2024-10-10,,,"- Sharepoint�� ���� ���� ������ ����
+- 2024-10-17�� 08�� Tech Review ���� ����
+(�������� California�� �־ �ð� ����� ��)",,0.3,,
+2024-0055,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,P736,�������븮,"Monthly Commercial Meeting
+- ���� ���� Ȯ��
+- ���� �غ� ��Ȳ ����",0.3,one_time,2024-10-10,,,"- ������ 51���밡 �´ٰ� Ȯ��
+- ������� �غ� ��Ȳ ���� �� ���� �� ���� ���� ���� ��Ȳ �ȳ�",,0.3,,
+2024-0056,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759,�������븮,"Monthly Commercial Meeting
+- Long Lead Funding ���� ��Ȳ ���� ����",0.3,one_time,2024-10-10,,,#NAME?,,0.3,,
+2024-0057,TECH,GM,Purchasing,����������,E-Mail,B-Car,"�������븮, ���¿�����","B175 GM CKD ���� �̳� �߻�(24�� 10/10 ~ ) :6�ֹ���
+Backlog �߻� �� �ļ� ��ġ ���� �� ó��
+
+#. ����? 
+1) ��ǰ ���� ����
+�� �켺��� ""DB5 BUCKLE LOWER COVER(0361-DB05BK)""
+- �ϼ�ǰ ǰ�� : 94587351 / 94587338
+�� �뿵���� ""DB5 I/TONGUE(0209-DBI0BK)"" & �켺��� ""3P STATIC LOOP COVER(0326-3P00BK)
+- �ϼ�ǰ ǰ�� : 94587326 / 94587353
+2) ���� CAPA ����
+�� ������ũ ���� CAPA ����
+- ���� ���귮 �����Ѵٰ� �Ͽ����� ��� ���� ���� ���ٰ� 24�� 4/4�б� ���� ����
+1�� ��ǰ(�ż� ENG DB5 FRAME ��) ���� ���� �� ��ǰ ������ �ǰ� ������ HMC KD ���� �������� ���� CAPA ���� �߻�
+- �ϼ�ǰ ǰ�� : 94587347 / 94587348",0.3,continuous,2024-10-10,2025-02-28,2025-04-25,"1. �ְ� ��ǰ ��Ȳ ����_GMK ���� ������ ����(2025-01-12���� �Ϸ�)
+2. ���� ��Ȳ Ȯ�� �� ��ü Capacity ����(���) : 2/28 �ؼ� ����
+
+#. ��å
+1. ������ް��� �����Ȳ
+1) �뿵���� : ""DB5 I/TONGUE(0209-DBI0BK)
+- �� �ҿ䷮ : 2,500ea capa Ȯ�� �Ϸ�
+- �ż�eng �μ�Ʈ ������ ���� ���ް��� ���� �����ʿ�
+�� �ְ� ��ǥ ��� ��ǰ ���� ���� ���� ��
+2) �켺���
+�� 3P STATIC LOOP COVER(0326-3P00BK)
+- �ӽô�å : 2�� �����ʿ���� ��ŭ ���� ���� �Ϸ�
+- �ٺ���å : ���� ���ް��� ���� ���� �ο���� ���� �߰����� �ʿ�
+�ο������ ���� ��ǰ�ܰ� �λ� ��ǰ������ ���� ����
+�� �ְ� ��ǥ ��� ��ǰ ���� ���� �� Backlog ���� �ؼ� �Ϸ�
+3) �ż� ENG : REEL LOWER BRACKET(PY7003-0001Z5)
+- �ְ� 7,200ea �����ȹ ��� ���� ������ �־� C/UP ���� ���� ���� �ʿ�
+
+�� 17���� ��ü Backlog �ؼ� �Ϸ�
+- ������ ���� ���� ���� ��� �̳�ǰ�� ������ ���·� �̳� �ؼ� ���� ���� ���� �� ���� ������ �ʿ��� �����Դϴ�.
+
+�� 16���� ��ȹ ��� �ټ� ������ ������ �߰� Backlog ������ ������, ���� �����ǰ� �ִ� ��95071475[BELT ASM-D/SEAT (RETR SI)]���� ��� ���ִ� 7,600ea �������� Backlog�� 8ea�� ���� �Ǿ����ϴ�.
+���������� ������ ���ָ� ��ü Backlog�� ��� �ؼ� �����Դϴ�.
+�� 15���� ""95071475"" �� Backlog �ؼ� �Ϸ� 
+2) 95071475 BELT ASM-D/SEAT (RETR SI) : �ְ� ���� 6,000ea -> ���ް�ȹ 7,200ea -> ���� ���� 6,000ea
+- �ְ� ���� ���� 6,000ea�� �������� Backlog 1,608ea ��ȭ ����
+�� ���� : REEL LOWER BRACKET(�ż�ENG) ���� ������ ���� �����ȹ ��� ���� 1,200ea ����
+
+2. ���� �ܾ� �� Ư������ CAPA Ȯ��
+- �ְ� ���� 2,500��~3,000�� �� ���� 3,500�� �̻�
+-?���� ��Ȳ Ȯ�� �� ��ü Capacity ����(���) : 2/28 �ؼ� ����
+�� ������ũ ���� CAPA���� ������ ���� ��������� HKMC ��� ��ǰ �̰��� ���� �ؼ� ����
+3/18��(ȭ)���� �������� �̰� ���� �������� �ܰ躰 Backlog �ؼ�, 14W Backlog ��ü �ؼ� �Ϸ�",,,2,2
+2024-0058,TECH,VW,Engineering,IAV,Conference Call,Application Engineering,"ST, RD","Q7, Skoda ������Ʈ�� ���� �������� ������ô���� ����",1,continuous,2024-10-15,2024-11-04,2024-11-04,"PV ��� ���� ��, ���� PV ����� ���ؼ��� �׽�Ʈ ������ �߼�
+Webbing�����Ͽ� � �׽�Ʈ�� ����Ǿ����� Ȯ���ϰ��� ������ ���� ���� ���� �߼�
+Emission Test�����Ͽ� �������Ͽ� ����ǰ���� �� sh14���� Ȱ�뿡 ���� ���ÿ� Ȯ���ʿ�",,,2,2
+2024-0059,TECH,VW,Engineering,Hasmueller Benjamin,Conference Call,"PV testing Result
+Ex-Retraction Force",ST,PV testing ��� ���� - ������� ��� ����,1,continuous,2024-10-15,2024-11-08,2024-11-08,"DV Testing & PV testing ex-retraction force�� �ٸ� ����
+Sample���� Force�� ���̰� ���� ���� ����
+- �̰����� BMG ���� �� ����� ������ ���� �ʴ´ٸ� BMG�� �ȵȴ�",,,2,2
+2024-0060,TECH,VW,Engineering,Geotze Fabian,Conference Call,Tongue 2.0,��â�δ븮,Tongue 2.0�� ���� PV Testing �������,1,continuous,2024-10-15,2024-11-04,2024-11-04,"* Quotation Release ��� Aging PV Testing �ڷ� ��� ���� ����Ȯ��
+* PV Testing �׽�Ʈ ��� ������û - ������� �� SETUP�� ���ؼ� ������
+�ΰ������� �ʿ�, ���Ŀ� ���� Ȯ�ΰ������ SETUP �� ����� ���� ������
+�ۼ��Ͽ� IAV�� ���� �� �� �ֵ��� �����ʿ�",,,2,2
+2024-0061,TECH,VW,Quality,Hasmueller Benjamin,Conference Call,Ex-Re Forces check via DFMEA / PFMEA / Control Plans,"QA, QC","������� ������ �߻����� �ʰ� �ϱ� ���� �������, ������, ��Ʈ���÷� ����",0.1,one_time,2024-10-15,,,"Frame 90�� ���� �� dimension ���� ��� �� ���ΰ�?
+ǥ��������� 
+��Ǯ �� �̵�
+��Ǯ �߽������� ������ ��",,0.5,5,5
+2024-0062,TECH,VW,Engineering,Boiko Sergi,Conference Call,"J&S D-Ring
+Yuhuan D-Ring ����","RD, MC","J&S D-ring ������Ȳ
+Yuhuan D-Ring ���� ��ô����",1,one_time,2024-10-15,,,"������� �״� ���� Deviation, ���Խ��� �����Ϸ� �ĺ��� Yuhuan D-Ring ������� �ױ� ����
+J&S D-Ring ������Ȳ, ��ȯ�� �������� ������Ʈ",,0.5,5,5
+2024-0063,TECH,AutoMaker,Purchasing,Martin Decker,Ariba System,CX735,�������븮,"Round 2 RFQ ����
+- 2024-11-01 ����
+- 2024-11-06 07:45 ���� ���� ����",0.7,continuous,2024-10-17,2024-11-06,2024-11-05,"1. ��������䱸 2024/11/01 > 2024/11/06
+2. ���ΰ����غ� 
+1) RD : BOM,�����缭 (10/22)
+2) CP : ���� (10/24)
+3) PD : ������, ����ǰ ���� (10/24)
+4) PT : �������ں� (10/24)
+5) PM : ����/����� (10/24)
+6) ME : 1������ ���� (10/30)",,,3,3
+2024-0064,TECH,AutoMaker,Engineering,Martin Kizil,E-mail,CX735,�������븮,"Round 2 1EC ��� ����
+- RD�� ���� ���� Ȯ�� �� ���� ����",1,continuous,2024-10-18,2024-10-18,2024-10-18,#NAME?,,,3,3
+2024-0065,TECH,AutoMaker,Engineering,Smit Ranalkar,Conference Call,P833,�������븮,"Technical Review
+- Technical �Ϲ� ���� ����
+- 1EC ���� �� ������Ʈ ��û",0.3,one_time,2024-10-18,,,"Question List Ȯ�� �� �亯 ����
+- Crash Locking Tongue ���
+- Passenger Seatbelt �ɼ� ���� Ȯ��
+- RTR Upper Stay, Lap P/T Boot & Bezel �ɼ����� ����/������ �����Ͽ� ���� ���� ��û",,15,,
+2024-0066,TECH,AutoMaker,Purchasing,Scott Fraser,E-mail,P736,�������븮,"Round 1 ���� �ǵ�� ���� �� Round 2 ���� ���� Ȯ��
+- 1�� ���� ���ؿ� ���� �ǵ�� ����
+- 2�� ���� ���� : 2024-11-08 ����(EST)",0.3,continuous,2024-10-26,2024-11-08,2024-11-08,"���� ���� �� ���� ���� �Ϸ�.
+- 2�� ���� ���� Ȯ�� �ʿ�",,,3,3
+2024-0067,TECH,HKMC,Purchasing,�����å��,E-mail,"�߽��ڹ���
+ǰ������ȭ","�����ºλ���, ����������, ����������","��۸߽��� ��Ʈ��Ʈ ǰ�� ����ȭ ���� ���� ��û
+1. ǰ�������/��������� �İ�
+2. ǰ������ �� ����ǰ�������� ���� ���������η� 6��(3���� ����)
+3. ǰ���������� ���� �������� hmma�� �������� ��������",0.3,continuous,2024-11-05,2024-11-10,2024-11-10,"1. HMMA ���� (������, ������) 1/5~11
+2. �����η� 
+- ����� : 1/8~ ǰ��/��������
+- �輺�� : 2/15~ ����ǰ��
+3. �ǻ����
+- �����Ұ�
+- ""����ȣ��"" �����湮��������
+- �ҷ����⿡ ���� ��� ����� 
+",,,2,2
+2024-0068,TECH,VW,Quality,Robert Stojka,TECH,"Logistics Audit
+Production Audit",�����ü,Audit,1,continuous,2024-11-06,2024-11-28,2024-11-28,"*������å �ۼ� �� 11/28���� �Ϸ�
+- Audit �� ���������ǿ� ���� ���������� �Ǿ����� ������ ���
+- MGG ������ ���� �ʴ� �Ϳ� ���� ���",,,2,-5
+2024-0069,TECH,VW,Engineering,Kusy Petr,Conference Call,Development,"RD, IAV",webbing ���� ���� �� �����ϼ����� ���� �Ҹ� ���,1,continuous,2024-11-06,2024-11-06,2024-11-06,"- ���� �ϼ����� ���� �������� ���� : IAV�� �̿� ���� IAV���� �������� ����
+- WEBBING 80MM ���̱�, �����ذ�å�� ���� ����
+- European NCAP�� ���õ� ��������",,,2,-5
+2024-0070,TECH,VW,Engineering,Hasmueller Benjamin,Conference Call,Ex/Retraction Force,RD,������ 22ȸ������ ���� �� �׿� ���õ� ���� ����,0.3,continuous,2024-11-15,2024-11-22,2024-11-22,"IAV�� ������ ȸ������ ���̴� �Ϳ� ���ؼ� 22ȸ�������� �������� ����� �ŵ�
+AUDI���� ��ȭ�Ͽ� 22ȸ������ PV�� (EX-RETRACTION TEST)�� �����ؾ��� �� Ȯ��",,,2,2
+2024-0071,TECH,VW,Engineering,PSW,Conference Call,D-RING GUM-UP ����,RD,D-RING GUM-UP ����,0.5,one_time,2024-11-15,,,"GUP-UP(�̹���) �߻��� ���� ������ ã�� �ذ����� ã�� ��
+- �� DUST ���迡�� �߻��ϴ� ������ TEST SETUP�� �����Ͽ� ���� ����Ʈ�뿡 ���� �ʰ� �ٱ����� �����ϴ� ������ ����",,0.5,,
+2024-0072,TECH,VW,Engineering,Hasmueller Benjamin,Conference Call,Ex/Retraction Force,"RD, ST","22ȸ������ �ٲ� �� ���� �ó����� ����(��Ÿ �׽�Ʈ+Ÿ�Ӷ���)
+����÷� ����",0.3,continuous,2024-11-15,2024-11-28,2024-11-28,"PLAN1 : ��ǰ ���� ������ ���� ���� ����(�÷� 3EACH 120,000 ����Ŭ ������
+PLAN2 : SPRING ���� ����(3600 ���� 3800���� ����)",,,2,2
+2024-0073,TECH,GM,Purchasing,����������,E-Mail,B-Car,"�������븮, �赿������","���� ���꿡 ���� ���� Retooling
+( 5�� : 26��1�� ~ 31�� 12��)",0.3,continuous,2024-11-19,2025-09-30,,"**�������Ǵ�� GMK�� ����Ϸ� : �ǰ� 27%�λ�, �������Ͻú�(27��,70��), ������2���(15��)
+**25��������Ͻú� �����ʼ� : PPAP 9�������� ��ǥ
+
+1. ���� PO (3����)
+2. ����/SQE �湮���� (4������):����,��������, PPAP ��ȹ����
+3. ���� ���� : 2025-06-30 �Ϸ� ��ǥ
+4.��ǰ ISIR ���� 2025-07-30 �Ϸ� ��ǥ
+5. ��ü PPAP : 2025-08-14 �Ϸ� ��ǥ
+5. GMK PPAP ���� 2025-08-29 �Ϸ� ��ǥ : FULL PPAP���� ����ȭ ��û�ʿ�
+6. ������ �Ͻú� ���� (11��)",,,,
+2024-0074,TECH,GM,Purchasing,����������,E-Mail,B-Car,"�������븮, ����������","���� ���꿡 ���� ������� �ű� ����
+( 5�� : 26��1�� ~ 31�� 12��)",0.3,continuous,2024-11-19,2025-11-01,,"1. �������ں� ȸ�� ( 15���) 14�� ���� Ȯ��
+1) MAIN SUB ���� 1��, SUB���� 6��, �ƿ��Ͷ��� 7��
+2. ���� ���� ��ȹ ���� �� ���� �ʿ�
+1)��������/ǰ�� : 4/10 
+2)����/���ޱ�:4/20
+3)��������/�߰��˼� : 7/30
+4)�����԰�/���� : 8/30
+5)���� T/O : 9/15
+6)PPAP ���� : 10/30
+7)��� : 11/01",,,,
+2024-0075,TECH,HKMC,Engineering,�躴��å��,Conference Call,LT2,"����ö����, �豤������","3. ���� �� ��û���� 
+1) ���� ��� ��� �ο��� �豤�� ����� ���� 3������ 2������ �����ɷ� �˰��ֽ��ϴ�. 1�� �ο� �߰� ���� ��ȹ�� ����������?
+2) �Ʒ� ���� ���� �׸� ���� ���� �Ǵ� ��� �ǵ�� ���� ȸ�� �ٶ��ϴ�. 
+2) LT2 �� ���� ������� �ٸ��� ���� ���� �Ǿƿ� �ҿ䰡 ����˴ϴ�. ���� ����ο��� �߰� �Ǵ� �¿� ����� ������ ��û�帳�ϴ�.",1,one_time,2024-11-22,,,"1. RD 1�׷� �ο� �������� ���� ���� ���� �������� ��� �ʿ� 
+-. ���� �κ������� �ʿ� ��û �ڷ�� ���� ���̸�, 
+�ǹ� ����� �ο� ���� �ʿ�
+
+2. �ο� ��� �������� ���� ���� �Ҹ� ����",,-15,,
+2024-0076,TECH,VW,Purchasing,Audi Sports,Email,Timing Plan,"PD, PM",Timing Plan,0.3,continuous,2024-11-25,2024-11-25,2024-11-25,"AUDI SPORTS Ÿ�̹��÷� ���� ��û, ��¥�� ��� �ۼ��� ���� ��û",,,2,2
+2024-0077,TECH,VW,Engineering,IAV,"Gifhon, IAV","General Audi Project
+Issue","RD, AR",General Audi Proejct Issue,0.3,continuous,2024-11-25,2024-11-25,2024-11-25,"TESTING TEAM�� ���� ȸ�ǿ� ������ �� 
+TESTING ����� �ۼ��� �� ���� ���� ���� �ۼ��Ͽ� ������ ��
+IAV ������ ������ �� �� �ֵ��� ��� ȸ�� 2�������� ����(���� �� ���)�� ������ ��
+�ƿ������ IAV�� ���賻�� �� �������� ���� ������ �� �� �ֵ��� �̸��̸� RAW DATA, ����, ���� ��, ��, ������ ������ ���� �� ������ ��",,,2,2
+2024-0078,TECH,VW,Quality,Peggau Christoph,"WOLFSBURG, VW",Hehight Adjuster,QA,ǰ����� Į��ġ���� �䰡��� ����,0.3,continuous,2024-11-26,2024-11-27,2024-11-27,#NAME?,,,2,2
+2024-0079,TECH,AutoMaker,Engineering,Xu Bin,E-mail,CDX706,Ȳ�󿬰���,"�߽��� ���� ��� �߰� ���� ���� ���� ���� 
+- ���� �� �ݿ� ���� ���� : 24/12/27
+- ���� �Ϸ� �䱸 ���� : 25/1/15",1,one_time,2024-11-27,,,"1. ���� ���� (12/19)
+- �������� �Ϸ� (12/19)
+- ���� ���� ���� �� ���� (12/20)
+2. ���� �ݿ� ���� �ڷ� �߰� ���� ���� (12/27 -> 1/6����)
+- Team Center �ű� id �߱� ��û ��
+- ���� �����Ͽ� ���� ���� ���� ����",,15,,
+2024-0080,TECH,VW,Purchasing,Augustino Perricone,"INGOLSTADT, AUDI",CRITICAL SUPPLIER,�����ü,�ɰ��� ������ ���޾�ü��� CRITICAL SUPPLIER ���� ���� ��� �� ���,1,one_time,2024-11-28,,,"- ����ɷ°� SNF1 ���� ���� RED�� ���� ���� ��������
+- 2�� �Ŀ��� �������� �ʴ´ٸ� �ƿ�� ���ö��̾�μ��� �ڰ��� ��Ż ���԰� 
+�ٸ� ���޾�ü�� ����( �׿� ���� ��� ������ ���ش� ����� ����)",,-10,,
+2024-0081,TECH,VW,Purchasing,Augustino Perricone,"INGOLSTADT, AUDI",CRITICAL SUPPLIER,�����ü,�ɰ��� ������ ���޾�ü��� CRITICAL SUPPLIER ���� ���� ��� �� ���,1,one_time,2024-11-28,,,#NAME?,,-10,,
+2024-0082,TECH,VW,Quality,Robert Stojka,"INGOLSTADT, AUDI",Audit,PM,Audit - ��� Red�� ���� �ɰ��� ����� ������å ���� ����,0.3,continuous,2024-11-28,2024-12-13,,"- 2024�� �� ����Ʈ���� �̹� ����ϰ� ������ �����̳� �������� ����
+- ���꿡�� FIFO�� ��Ģ�� ���� ACTION PLAN�� ������ ��(���Լ���)",,,,
+2024-0083,TECH,VW,Quality,Robert Stojka,"INGOLSTADT, AUDI",Audit,PM,Audit - ��� Red�� ���� �ɰ��� ����� ������å ���� ����,0.3,continuous,2024-11-28,2024-12-13,,#NAME?,,,,
+2024-0084,TECH,VW,Quality,Robert Stojka,"INGOLSTADT, AUDI",Audit,MC,Audit - ��� Red�� ���� �ɰ��� ����� ������å ���� ����,0.3,one_time,2024-11-28,,,#NAME?,,-2,,
+2024-0085,TECH,VW,Engineering,Hasmueller Benjamin,Conference Call,Q7,����ö����,"Engineering Issues�� ��Ȱ�� Interface ������ �ϱ� ���Ͽ� ���������� ��ۿ��� �İߵ� Engineer�� �ʿ��ϸ� German Engineer�� ä���� 2nd Step �̸� 
+�̷��� ��ȹ�� Time Line�� ���ԵǾ�� �Ѵ�. ���� IAV���� Engineering�� �����ϰ� �ִ� ���ǵ� ������ �ִ�. ��� Engineering Data�� Access�� ���ѵ� 
+���� ���ص� ������ ���¿��� Engineering�� �����Ѵٴ� �� ���� ������ �����Ƿ� �ѱ����� ���� Engineer�� ���� ���ְ� �ñ��� �������� �ŵ� ������",0.3,continuous,2024-11-28,2024-12-13,,"- �ű� �η� 1�� VW ������Ʈ�� ��� ���� 
+( ���� �Ϸ� : 12/12 ~13 ) ( ä�� �����)
+- ���� ���� �İ� ������ �η� �߰� ���� ä�� ���� �ʿ�
+- ������ �Ի� Ȯ�� ( 1/20 ) 
+- VW ȸ�ǿ��� �ش� �ο� ��� ���� ���� ������(1/16)
+- VW ȸ��(1/23)���� �������� ������ ���� �Ұ��Ͽ���. 
+- ������ ���� ��� ���� �ű� �ο� ä�� �ʿ�",,,,
+2024-0086,TECH,VW,Purchasing,Edemann Niko,"INGOLSTADT, AUDI",B-RELEASE,ME,B-Release�� ���� ������ ���� ���� ���� �� ����,0.1,continuous,2024-11-28,2024-12-03,2024-12-03,#NAME?,,,3,3
+2024-0087,TECH,VW,Purchasing,Edemann Niko,"INGOLSTADT, AUDI",ECR0019-001,"ME, RD, PD",D-RING WASHER,0.1,continuous,2024-11-28,2024-12-06,2024-12-06,"- �� �ͼ� �ѱ� �� ���޾�ü�� 3D DATA ����
+- WASHER TORQUE �� �� �� ������ ���� (12/6)",,,3,3
+2024-0088,TECH,VW,Quality,Robert Stojka,"INGOLSTADT, AUDI",Audit,QA,Audit - ��� Red�� ���� �ɰ��� ����� ������å ���� ����,0.3,continuous,2024-11-28,2024-12-13,,"- ���� ������ ������ ���� �� ������(�ƿ�� ���δ����)
+�� ������������ ����
+- �� ���ÿ� ���� ������ �����Ŀ� ���� ���� �� ������ �����Ͽ� 
+���������� �ּ��� ����� �����Ͽ� �����ϴ� ������ ����(12/13 ��)",,,,
+2024-0089,TECH,VW,Engineering,Hasmueller Benjamin,"INGOLSTADT, AUDI",BMG,"RD, ST",BMG - �����ϼ��� ���� ��� �� �̿� ���� ��å ����,0.3,continuous,2024-11-28,2025-02-10,,"BMG �ϼ��� ���� ��� ǥ��
+- �ְ� ���� ������ ����, �������� ���� �����ϴ� ������ ����
+- IAV SAMSONG ������ ���� �ݿ��Ͽ��� ȸ�Ǹ� ���Ͽ� BMG�� ���� �� �ֵ��� ����� ���� ����",,,,
+2024-0090,TECH,HKMC,Purchasing,��ȣ��å��,E-mail,A/S ����,���¿�����,"1. A/S ���� ���� ����
+2. �ڿ� ����, �ο� ���� ����, ���� �� �����Ǵ� ���� ���� ���� �߻�",0.3,continuous,2024-12-01,2024-12-19,2024-12-19,"1. 12/19�� ���� ��å ��ǥ
+2. ���� ��å
+1) �ܰ躰 ���� ������ ���� ���� Flow ���� 
+2) ��ǰ ���� - �ű� �ý��ۿ� 2D���ڵ带 Ȱ���Ͽ� A/S ���� ���� 
+3) ��� ����(��,�ܻ�) ���� ��û
+4) �ܻ� ���� A/Sǰ ���� ����
+�� ��ü�÷�, ��ü ��翡 ���� ���� ����",,,2,2
+2024-0091,TECH,HKMC,Production,������å��,E-mail,SV,���¿�����,"1. ��� ����2�������� �����ϴ� SV���� H/ADJ ������ ���� ����
+1) 5/22�� ��ü ���� �� ���� �Ƿڽ� ���� ����1����(MV �� RJ) ���� ���� ��ü�� ""�ѱ�����(SKK)""�� ���� ���� �Ƿ�
+- ���� ������ü�� �ƴ� Ÿ ��ü�� ������ ��ȸ ��ۿ� ���� �߰� ������ �߻����� �������� ��� ��� ���� �߻�
+- �۷κ� �Ƿڽ� �켱 ���� �������� Ư�� ��ü ������ �ƴ� ������ ��Ȯ�ϰ� ����߾�� �ϳ� �׷��� ���� ���� �߻�
+2) �۷κ� �ѱ����� ���� ��ü �������� ��������� �ܰ��� ���� �������� ����
+3) ��� ����� ��� �� �ű� ����� �ļ� ���� ���������� ���� ������� ����",0.3,continuous,2024-12-02,2024-12-31,2024-12-24,"1. ���� ���� ���� �ľ�, �۷κ� �����(������å��)���� ������ �����ϰ� ����� �Ƿ� - 12/2
+2. ������ ���� å���� ���� ���� ���� �� �ܰ� ����� ��û
+- �� ������� MV ���� �ܰ�(1,470��) ~ YB ���� �ܰ�(1,750��) ���� ����
+3. ���� �ܰ� 1,470���� �ּ� ��ǥ �ݾ����� ���� �Ϸ�",,,2,2
+2024-0092,TECH,HKMC,Purchasing,���ź���,Seminar,����SR,�念���̻�,"1. ��ǰ��������ü � 
+: ���»� ������ �������� ����ܰ� 
+""��ǰ�����-��������ȭ ���̵��߱�"" �� 
+""��ü����"" ���� ����",0.3,continuous,2024-12-03,2025-06-30,,"1. ���� ������� ����ý��۱����� ����
+- �ù�ǰ������ ��ǳ��Ʈ, ����, ���÷��̵�(18��ǰ��) ���� ������
+�űԾ�ü�� ���ԵǾ� �űԾ��̵�� �߱�����
+- ��Ʈ��Ʈ�� �ٸ� ǰ����� � ������� �������� �������� ����.
+- �ù�ǰ�� ���� �� Ȯ�� ���� �Ǵܵ� ����.
+2. �����غ� (ME,RD,AR,PD)
+- �ֿ�� ��ü ������ ���ؼ��� ����� �ִ� �ű���ǰ �� �ű������ ���ȵǾ�� �Ұ����� �Ǵܵ�
+( ��Ʈ��ü�� BIS�� ��Ʈ��Ʈ�� )? 
+?�� ���� �غ� : ���(���� ���� ��ȹ)�� ���� �ű��, ����, ǰ�� ���� DB�� ���� �?
+? ? ? ? ? �� �ؾ��� �� : ���� ���� ��ȹ ���� (�念���̻�)",,,,
+2024-0093,TECH,HKMC,Purchasing,���ź���,Seminar,����VE,�念���̻�,"1. �������ߴܰ� ���»� VEȰ�� �μ�Ƽ�� ���� 
+- SV �ù��������� ���� 
+- ���� : 10% �󰢹ݿ� (~B/out) 
+- ���� 50%, 1��ġ���� �Ͻú� ����",0.3,continuous,2024-12-03,2025-02-28,,"1. �ݾ������� ���� ���� ����ϸ� ��, �Ͻúҷ� ���޹޴� ����.
+2. �����غ� (CP,RD,AR,PD)
+- ���� ������ Ȱ���� ���� EO�� �ʿ��� �ȰǸ� ���»� �������� ���.
+- 25�� �������� : NH2, SP3, SW, OVk��",,,,
+2024-0094,TECH,HKMC,Purchasing,�������Ŵ���,Conference Call,LT2,�念���̻�,1. ���ֻ�� �ֿ������� LT2 ����� ���ֵǾ����� ���� ������� �� ���� ������ �����ǿ� �������� ���÷����� ŭ. ���ش������,0.5,continuous,2024-12-03,2024-12-03,2024-12-09,"1. LT2 ���ں� �� ���¿� ��û�ڷ� ���� ����� ( 12/3 -->12/9 )
+2. ��뼳�� ���� ��ȭ���� �� ��ȹ ���� ����",,,2,2
+2024-0095,TECH,AutoMaker,Purchasing,Martin Decker,Ariba System,CX735,�������븮,"Round3 RFQ ����
+- 2024-12-07 ����
+- 2024-12-10 ���� ���� ����",0.7,continuous,2024-12-04,2024-12-10,2024-12-09,"1. ��������䱸 2024/12/04
+2. ���ΰ����غ� 
+1) RD : BOM,�����缭
+2) CP : ����
+3) PD : ������, ����ǰ ����
+4) PT : �������ں�
+5) PM : ����/�����
+6) ME : 1������ ����",,,3,3
+2024-0096,TECH,AutoMaker,Purchasing,Martin Decker,E-mail,CX735,�������븮,"Round 2 ���� ���� �ǵ��
+- ������ : ��� ��� 2�� ����
+- ED&T : ��� ��� 1.5�� ����
+
+���� ���� ���� Ȯ�� �� ȸ�� ��û",0.5,continuous,2024-12-06,2024-12-13,2024-12-12,"1. ED&T : 8.2% ������ ����
+2. Tooling : ���� 24.7% ���� ���ɼ� ����
+- 1�� : 8.2% ������ ����
+- 2�� : ��� �м��� ���� ���� ���ɼ��� �ִ� ���� �����ȳ�(7.41%)
+- 3�� : �ɼ� ��� ���� ������ ���� �ɼ� ��ä�ý� ���� ���ɼ� ���(9.1%)",,,2,2
+2024-0097,TECH,HKMC,Quality,����å��,E-mail,VOC ����,"����ȯ����, �ǿ������, ���������","SEAT BELT 4���� VOC ���� �� NG ��å ���� 
+�����˵����� �׸� : ���,���, ���丮�� NG, ���̽��� �հ�.
+
+��� : 2027 �����˵����� �׸� SPEC ����. 200 PPM -> 68 PPM ���濡 ���� ��ǰ��ȿ�� ����",0.3,one_time,2024-12-10,,,"1. ���� �˵����� �ʱ� SPEC 110PPM ��� MS 300-57 �� 200ppm ����
+L POM ��ü���� �⵵�ñ��� 200ppm spec ��ȭ. 
+2. ���� 60 PPM ���� �������� ��Ʈ��Ʈ ���� �� ���� ����. 
+L ���� ����. 27�⵵ ������ ����. 
+3. �������� ����. POM �������� �����۾� ����. ȣ�� ���Ӱ������� ����. 
+
+�� ���� ���� ������ ���� �������� ����
+
+
+
+
+
+
+
+
+�� �Ϸ����
+���������� ���� �������� 
+: ����µ�F/P, ���� �� ���� ȣ�ۿ��ӷ� ����, ������ü �� ��¡, ���� ����, 
+( 1�� ����� D-RING N TYPE ������Ȳ -> ��ȣ��. �Ǵ�) 
+�� SB30 BUTTON(G.I.C) �� ���� �������� ���� �� ��� ��û. 
+�� ������ �غ����
+1. PD & K.E.P :: �� ����, ���� ����, LOT�� VOCs �׸� �������� 
+-> LOT�� ������ ���� (MS300-55, ����4*9 , ���Ͽµ� ����)
+2. PD & RD : LOF��3�� R/C ���ɿ���, �������� �� ����, �Ϸ���(������) ���� 
+3. RD : F10-52D GRADE ��� ���� 
+-> ���� �̵�� ���·� ���� GRADE�� ���� �� �������� �߻� �������. 
+4. PQ & ST : POM D-RING�� �����ϰ� SB30 BUTTON ���� �� ��� �ۼ� ���� 
+",,5,,
+2024-0098,TECH,HKMC,Purchasing,���ź���,Seminar,����������,�念���̻�,"SUB KD ������ �Ͻú� ���ް���
+1) �ؿܻ������� ������ �ѱ����� ���۵ǰ� ��ǰ�� ����Ǿ� �ؿܷ� SUB KD �Ǵ� ����ǰ���� ���޵ɽ�
+�����ڻ��̶�� ������ �Ͻú� ������ �������� �ȵȴٰ� �߾����� �����θ� �ݿ�
+2) �ֱ� ���������� �ؿܰ��� ���Žǿ��� ���ް����ϴٴ� �ǰ�",0.3,continuous,2024-12-13,2024-12-30,,"1) �ش��������Ʈ ���� �� ���κ� ���� (���������� 12/20)
+2) �ؿܹ��κ� �������Žǿ� �Ͻúұ����� ���ް��� Ȯ��, ������ (12/30)
+3) �ؿ����� ������ ǰ���ڷ� �غ� (�����԰���, 25�� ���� �ش�� ����)
+--> �������� ȸ�ǿ��� ���˿���",,,,
+2024-0099,TECH,HKMC,Engineering,��뼱å��,E-mail,MVa,"����ö����, �豤������","1.�ڹݼ� ��� ���� ���� ����� ���� ��û �� �ʹ� ���� ���� ���� ����� ��ü, �׷����� ���� �ν��� ���� ���� 
+",1,one_time,2024-12-13,,,"1. RD 2�׷� �� �ٽ��ο�(������ ���) ���� ���� �����Ͽ� ���� �й��Ͽ����� ���ÿ� �ڹݼ� ��� ���� ����� ���� ���� �߻�
+
+2. 12�� 2°�� �����ο��߿� �����Ͽ� ����� �����ϱ�� �ϰ�,2�׷� �ο� ���� �����Ͽ� ���ư��鼭 ���� �����ϱ�� �Ͽ����� RD 2�׷쳻�� �ο������� ���� AR���� �ο������� �Ǿ� ���� �Ҹ����� ��
+
+3. �ο� ��� �������� ���� ���� �Ҹ� ����",,-15,,
+2024-0100,TECH,HKMC,Purchasing,����å��,E-mail,AY EV,����������,"AY���� ��Ʈ��Ʈ ���� (DFS,RBQ) Į���ϸ�� NG �߻�
+1) MV C/O Į�� ��� ����
+2) �۴��� ���� ���� Į�� ���ο�û",1,continuous,2024-12-18,2025-01-06,2025-01-06,"AY EV Į�� ���ι� Į�� ���� ����
+1.KIN �̺�Ʈ ���� ������ ��ǰ ����-12/18��
+2.KIN �̺�Ʈ ���� ���� Į�� �ӽ� ���� ����-12/19��
+3.���翬���� Į�� �߰� ���� ����
+�� �۴��� �湮�� ���� ����-12/29~30(�۽���)/ ǰ�� ����:1/6 ����(�۽���,������)",,,5,3
+2024-0101,TECH,VW,Engineering,Kusy Petr,Conference Call,"SK316
+(Tranche9)","�������븮, Ȳ�� ����","webbing capacity ���� webbing �β� ���� ���� ����
+-> ecotech webbing �β� ��� �簳�� �ʿ� 
+( ���� spec : 1.3 ���� , SS ���� ���� : 1.1 ~ 1.2 ���� )",1,continuous,2024-12-18,2025-01-30,,"- webbing �β� ��� (1.22 -> 1.15) ���� ���� ��û �� ( �Ǵн� ����)
+- ����ǰ ���� �԰� :1�� 30�� ���� ( ���� �԰� �� : 1/2)
+- webbing �β� ���ǰ ���� �� ���� ",,,,
+2024-0102,TECH,VW,Engineering,Kusy Petr,Conference Call,"SK316
+(Tranche9)",Ȳ�󿬰���,"yuhuan d-ring BMG ���� ���� Tr9 PV ���� �� �� �ֵ��� ��û
+- yuhuan d-ring ���� ������ Tr9 �������� �����Ͽ� timing plan �ۼ� ��û",1,continuous,2024-12-18,2024-12-27,,"- yuhuan D-RING ���� ���� �� Tr9 �������� ���� Timing Plan �ۼ� ���� (12/27)
+- D-Ring ���� ����ǰ ���� �� ( S420MC -> S500MC ) , ���� �� �� ������ BMG TEST ���࿹��
+- D-Ring ���尭�� �� ��� ( 2EA ����, 1EA FAIL ) : ���� ���� ȿ���� Ȯ�εǾ�����, ���ð��� ���� �߻����� ���� MODE�� �ٸ� FAIL ���� �߻�",,,,
+2024-0103,TECH,HKMC,Engineering,������ ��Ʈ��,Conference Call,RS4 ��,����������,"1. RS4 IIHS ���� ���迡�� SV �������� ���� ���� ��� �̽� 
+- Vent Case �β��� �� Vent Piston Ȧ ����� �� ����
+2. CL4, SP3, QV, OVk ���� ���� SWLL ������ ��ȯ ���� �̽�
+- Clutch CP & Holder Ring ���� �� ��� ����",1,continuous,2024-12-19,2024-12-27,2024-12-27,"1. Vent Case �β� �� Vent Piston Ȧ ���� ���� �� ��� ���� 
+- Vent Piston Ȧ ���� ��ҿ� ���� ���� �з� ���� �� Vent Case ���� ���� ���� ������ ����ڵ� ���� �Ϸ��.
+- Safety Vent �������� ���� ���� ����Ȱ���� ���Ͽ� ���� ����������, �ش� ������ ���Ͽ� NASO�� �������� �ʰ� ��� ������������ ���� ����2. SWLL ��ȯ �̽� ���� ���� ���� �� ��� ���� 
+- BA ��� �� ����� ��ȣ�� ������ �Ǵܵ�. ==> ��� �浹 �� ���ÿ� ���Ͽ� BA ������� ������ ��û 
+- SWLL ��ȯ Delta t ���� ��� �� ������ ����������, �ش� ����� ���������� ���ǹ������� �߰� ���� ���� 
+- SWLL ��ȯ ���� �䱸 ������ 12/27���� �����ؼ� �߰����� ���� 
+- ȸ�� ��� �����翡�� ���������� ����������, ���� ������ ��û��.
+
+��1/3 
+- SWLL ��ȯ �� ���� �Ϸ� (1/3)
+- Safety Vent ���� Ȯ�� ���� ���� ���� ",,,5,5
+2024-0104,TECH,HKMC,Engineering,����ȣ������,E-mail,OE,�豤�� ����,"1. OE RE ������ ���� ���� ���� ���� ����
+- CCC ���� �Ϸ� ��ǥ : 1/16
+- EC ���� �Ϸ� ��ǥ : 2/15
+- ������ : �ļ� ��� ��� ���� ���� 
+�ϼ��� ���� ������ �߱� ���� ������ ������ 
+�������� ���� ���� �ʿ� 
+(���� ����ȣ, û���� �븮 Ȯ�� ��)
+",0.3,continuous,2024-12-20,2025-02-15,,"1. ��� ��� ������ ���� ���� ���� �Ϸ�
+- 12/16 T���� ��� ���� �ۺ� ��
+- �ļ� ������ �̵��� �Ҹ����� ���� �ý��� ���� ���� ����
+- ������ ��� ��翡 ���� ���� ���� --> 12/23 �� ��� ��� ���� ��û
+- �ϼ�ǰ ���� �� CCC ���� �Ƿ� (�ϰ漼��) - 12/26
+- ������ ���� ���� ���� 
+�� ����ȣ�븮�� ���� ���� CCC�������� ������ �ް�, ���� ������Ʈ 
+���ڴ� �ǰ� ����(12/20)
+
+2. ���� ���� ����
+- ������ ��� ��翡 ���� ���� ���� --> 12/23 �� ��� ��� ���� ��û 
+==> ��� ��� ��8.8 / ��9.3 �ΰ��� ��翡 ���Ͽ� ���� �����û 
+==> ���� ���� �� �� ��� Ȯ�� �뺸 ����
+- ���� �ý��� ���� ���� ������ ���� ���� Ȯ�� : 12/26 -> 1/7 
+- ���� �ý��� ���� ���� ���� (�߱�) - 1/6~1/10 -> TBD
+- ���� ��ȣ ȹ�� : 1/15 
+- ������ ���� ��ǥ ���� : 2/15 
+�� ����ȣ �븮 ��� ���� �� ȸ�� ���� (12/26 , ������ , ��� Ȯ�� ��)
+���� ���� ���� �߱� ����� ������� ���� �� ���� �ʿ� 
+",,,,
+2024-0105,TECH,VW,Purchasing,Boiko Sergi,Conference Call,"J&S D-Ring
+Yuhuan D-Ring ����",Ȳ�󿬰���,"J&S D-ring ������Ȳ
+Yuhuan D-Ring ���� ��ô����",1,continuous,2024-12-20,2024-12-20,,"- ��� ��Ȳ ���� ( J&S D-ring ��� : 12000��, �԰� ����:13200��), W22�ֱ��� ���� ����
+- �� ���� �� ���� ���� ��� ���� ���� ���� ���� ���� (12/20) 
+- �� ���� ����ǰ ���� ���� �� ( S420MC -> S500MC) 
+- ���� �� �� BMG ���� 
+- D-Ring ���尭�� �� ��� ( 2EA ����, 1EA FAIL ) : ���� ���� ȿ���� Ȯ�εǾ�����, ���ð��� ���� �߻����� ���� MODE�� �ٸ� FAIL ���� �߻�",,,,
+2024-0106,TECH,AutoMaker,Purchasing,"Mehmet Demirel, Uftade Sashin",Conference Call,AutoMaker Otosan,�������븮,"Company Overview ��ǥ �� �Ϲ� ���� ����
+- ��ǥ�� : ������
+
+* ����1,3,5�� �׸� ���� ���� ȸ�� �ʿ�",0.2,continuous,2024-12-24,2024-12-24,2024-12-24,"����1. (Uftade) Czech ���� �ϰ� �� ���� Capacity�� �����������?
+> ���� ������ ��Ȯ�� ���� Ȯ�� �� ���Ϸ� ���� ����
+����2. (Mehmet) Czech ���� �ϰ� �� ���� Ȯ�� �� �ֿ� ������ �������?
+> HKMC
+����3. (Mehmet) AutoMaker�� ǰ�� ���� �ܰ��� Q1 �ܰ踦 ����Ͽ�����?
+> ǰ�� ���� �μ��� ��Ȯ�� Ȯ�� �� ���Ϸ� ���� ����
+����4. (Merve) ����� �̷��� Steering Wheel�̳� Airbag �� �ٸ� ��ǰ���� ���� ��ȹ�� �ִ���?
+> ���� ������ ��ȹ�� ������ �ȳ�
+����5. (Mehmet) Engineering Capacity�� ���� ��ǥ �ڷ� ���� ��û
+> ���Ϸ� ���� ����
+����6. (������) ������ ���� ������ ���������� �����ϰ� �����Ͽ�����, �����ϰ� �ִ� ���� ������ �ִ���?
+> (Uftade) �ϱ� �̹����� �����鿡 ���� ���� ���޻縦 ��ü�� ��ü ���޻縦 ã�� �ִ� ���̸�, �Ͽ� ������� ����� �ش� ������ �´��� Ȯ���ϴ� ���� �ʿ�",,,5,5
+2024-0107,TECH,AutoMaker,Purchasing,"Mehmet Demirel, Uftade Sashin",Conference Call,AutoMaker Otosan,�������븮,Q1 Award ȹ�� ���� �ļ� ���� ����,0.3,continuous,2024-12-24,2025-02-28,2025-02-28,,,,2,2
+2024-0108,TECH,HKMC,Purchasing,�̰ǿ�Ŵ���,E-mail,���༭,�念���̻�,"��� ǰ������ �߻� ����, 
+��߹��� ���༭ / ��߹��� �����ǽ� 2�� �ڷ� �ۼ��� ȸ�� �䱸
+1) ���������� (23�� MQ4 ����˻� ������ , VOCs����)
+2) JX �ε帮���� �����",1,one_time,2024-12-24,,,"ǰ���ι��� �� ��ǥ�̻� ���� �ʿ� (�غ�:���ּ�����)
+1. ����� ���� : ����������.. ��߹��� �����ڷ� �غ�. �����Կ� �ʼ�,
+2. �ֿ��� ���� : ��� ���� ��߹��� �����ڷ� �غ�. �����Կ� �ʼ�,
+3. ������ ���� : ��߹��� ���༭ .. �ۼ����. 
+
+���� �湮 ���� �� ǰ����å ���� (1/22)
+- ���������� ���� : 1�Ⱑ ��������
+- ����糳ǰ ���� : 2���� �������� ����",,-20,1,1
+2025-0001,TECH,HKMC,Quality,�輺��å��,E-mail,SB30 �۵�������,"�ּ�������, ���ּ�����, ���������","�߱� HMC 3���� �������� SB30 BKL ���� ���̵� ������ �ظ� �����. 
+���� �䱸
+1. �� �����䱸. 
+2. FRAME ���� �ٸ��� ���� ���缳�� ���� �䱸. < ���� �̽�ȣå�� >",0.3,continuous,2025-01-03,2025-01-31,,"1. �߱� ���� ��ǰ ġ�� ����. 
+2. SB30 ���������� ���̵� ���� ������ ���� �ȵ� ���� ����. 
+L ���̵� ������ BUTTON�� ������ �̵����� FRAME & ���� ���� 
+LOCK PIN �������� ( EJECTOR �� �����̴� ������ ��������)
+==> 'L' �� ���� ��� ���� �ʿ�. 
+
+����.. ������ ���� ���� ����. ���� �Ӿ������. ��������� �ٰ� ������ �غ�.
+3. ���缳�� ���� ���� �Ϸ� �� ����(1/9). 
+1/13�� �ϰ� ���� ǰ��, �����߿� ��������. 
+L �����ڸ� ������ �ظ� �Ұ� ���� ���� �䱸. 
+4. ���� ���� ����. 
+L SLIDER, EJECTOR, LOCK PLATE ġ�� �Ҹ��� �ظ� ���� ��ȭ. 
+-> ���� �׸� ��üȭ, ��� ���� �۾� ����. ",,,,
+2025-0002,TECH,HKMC,Purchasing,�輺�ϻ�,ȸ��,"�߽��ڹ���
+ǰ������ȭ","�����ºλ���, ����������, ����������","? HMMA���� �䱸�ϴ� ���� ����ȭ & ǰ���� �ʿ��� ���� �׸���� �����Ͽ�(��ȣ��) �ſ� 1ȸ HMMA / SSMX / Comad J â�� ��� (�λ����� �ݵ�� ������ ��)�� �Բ� ���� �Ϸ� �ñ��� F/up ȸ�Ǹ� �ǽ��Ѵ�. (�ְ� : ��ȣ�� å��)
+",0.3,continuous,2025-01-08,2025-02-07,,"1. �����ټ���
+2. ȸ���ֱ� ����
+3. ��ǥ����/ ������ǥ ����",,,,
+2025-0003,TECH,HKMC,Purchasing,�輺�ϻ�,ȸ��,"�߽��ڹ���
+ǰ������ȭ","����������, ����ȣ��","? ��� �߽��� ������ ��� �� ǰ������ ����� ��� �̱����ο��� �߰��Ͽ� ������ �� 
+-> ������ ������ �� ǰ�� å���� ���� ���� ��û��. 
+",0.3,continuous,2025-01-08,2025-02-07,,"1. �İ߿��ΰ���
+2. �İ� �����ο� Ȯ��
+3. SS_USA ǰ������ ���� ����",,,,
+2025-0004,TECH,HKMC,Quality,��������,ȸ��,"�߽��ڹ���
+ǰ������ȭ","����������, �ո�������","? SSMX ������ο� �� ERP ��ġ�� �Ϻ��� ��Ʈ ������ �����ϴٰ� �ϴ� 3�� �� �ǻ��� �� 
+(������ å���Ͽ� ���� Ȯ���ϰ� ���,������ ���忡�� ������ ��)",0.3,continuous,2025-01-08,2025-04-01,,"1. �������� ��������(3��~4��)
+2. MX5 ���������׸� LIST-UP �� DATA ������ Ȯ��(GERP)",,,,
+2025-0005,TECH,HKMC,Engineering,�Ŵ޼�å��,E-mail,BJ,"����ö����, �豤������",1.�ڹݼ� ��� ��� �� ��Ⱓ �ο� �̺������� ���þ��� ���� ��û,1,continuous,2025-01-09,2025-01-31,2025-01-31,"1. RD 2�׷� �� �븮�� �ο� 2�� ���
+- ������ ��� 2024�� 10��/ �ڹݼ� ��� 11�� 
+2. Ÿ�׷�� �޸� �� �� �����ο��� ���� �����й�� �̷������ �ʰ� �׷쳻�ο��� ��޾����� �й��ϸ� ���� ��
+3. ��ǰ������ ���μҰ��� 1�� 25�� 1�� 6�Ͽ� ���� ���� 
+- �����ο� �Ի���� �ļ� ���� ��� ���� �ʿ� ( ���� �ο� �Ի� ���� )
+- �߰� 1�� ���� ��ȹ ���� �ʿ�
+4. ������ �븮 ��� (2/10) - ����������",,,-5,-5
+2025-0006,TECH,HKMC,Engineering,������å��,E-mail,JG SE,"AR, ME","<������>
+1. ��Ŀ PT �ܰ� ����
+�� ANCHOR PT SEAT MT'G ���� (��Ʈ ���, ����, Ŀ�� �� ���ް� ������)
+�� ���װ��α� ��� ���� ���� �� 
+
+2. ��Ŀ PT �ʱ� INSTALL ���ǿ��� ���� Ʈ����Ʈ
+�� BIS TYPE���� �ʱ� INSTALL ���ǽ� ���� ���� ���� �� �°� ���� �� ���� ���� Ǯ��
+? ��ȸ���� ��Ŀ Ŀ���� ���� ��û ����
+�� ��� �׸� �°������ý��ۼ��������� ���� ���Ǽ� ���ٰ� �Ǵ��Ͽ�. 
+�ϱ� ���� �䱸���� 2�� ���� ���� ��
+
+<���� �䱸 ����>
+1. ANCHOR PT QUICK FIX & LOCK'G TYPE (SLP3) ���� �����û
+�� ��������, ���ں� (����,������ ��) : ���� ������
+
+2. QUICK FIX $ LOCK'G TYPE Ÿ�� ���� ���� ���� ��û 
+�� ZF, ���丮�� �� �� ���ߵǾ��ִ� ��Ʈ��Ʈ ���»翡 ANCHOR PT ���� �޾� ���� ���� : ��� ������
+
+�� QUICK FIX & LOCK'G TYPE ����� �ܰ� �� �������� ���� �ؼ�
+",0.3,continuous,2025-01-09,2025-01-17,,"1. SLP3 ���� ���� �� ���ں� ���� �� ȸ�� ����
+- JG ���� �������� ���� �Ұ� 
+
+2. Ÿ�� QUICK FIX & LOCK'G TYPE ��ǰ ���� ���� ���� ���� ���� ȸ��
+
+�� ��� �䱸 ���� ���� ���� �� (1/17)
+1���� ��� ���� ����� ǥ�� (����, ��� ����)
+2���� ��� �����ϴٰ� ǥ��
+L 1/22 ME �念�� �̻� HMC ����� ���Ŵ�翡�� �ǰ� ���� �� (A/PT ���� ��ü �ҽ�)
+
+3. ���� ��Ŀ��Ƽ ���� ��ü �ҽ� ������
+L ���丮��� �°������ý��� ������ (2/5)
+L ���� ����� ������ å�ӿ��� ���� ���޹���",,,,
+2025-0007,TECH,HKMC,Engineering,������å��,������ȭ,JG SE,TBD,"�� ���� ���� ���� ���� ���� ���� ���� ���� ���� �䱸
+1. ����� AUTOLIV �� ZF �������� ���� ��� ���� ���� (25��)
+2. JG ������ ������ �� �ֵ��� �濵������ ������.
+==> ���� �������� ���ళ�߰��� HMC�� �Բ� ������Ʈ ���� ��û ���� �ۺ� ����",0.3,continuous,2025-01-09,TBD,,"1. ���� ���� ���� ���� ���� ��� ���� ����
+2. ���� ���� ���߰��� �ο� ���� �ʿ� ( �ű� �η� ����Ͽ� ���� �ʿ� - �ű�� ���� )
+3. ����� Ư�� ���� �м� ���� (2/28)",,,,
+2025-0008,TECH,HKMC,Purchasing,"������å��, �̹�öå��",E-mail,JG SE,"���¿����, ȫ��ǥ����","�� JG SE ���� Ŀ���� ��� ����
+1. BIS �������� ���� ���� ���̾ ��� ���� ���� ����
+�� ISSUE 
+1.��� �ŷ� 2���� ���̾ ��ü �� (SWITCH ��ü )
+2. ���̾ ���� ����/���� ���� ��
+3. �̷����� ��ǰ ���� �ð� �� ��� ���� : MAX : 20EA // WEEK, 
+
+�� P1 ���� ���� ���̾ ��ü ���� �ʿ�",0.3,continuous,2025-01-09,2025-05-15,,"1. PROTO ��� ����
+2. P1 ��ü ���� ���� ��û ��
+(HMC ������ å�ӸŴ���, �̹�ö å�� �Ŵ���)
+",,,,
+2025-0009,TECH,AutoMaker,Purchasing,Khanafer Fouad,Conference Call,P833,�������븮,���α׷� ���� �� �Ұ� �� ���α׷� ���� ����,0.3,one_time,2025-01-10,,,,,3,,
+2025-0010,TECH,AutoMaker,Purchasing,Scott Fraser,Conference Call,U759/760,�������븮,Cancellation Claim Audit ���� ��Ȳ �ľ�,0.3,one_time,2025-01-10,,,,,3,,
+2025-0011,TECH,AutoMaker,Purchasing,Sevval Sadic,E-mail,AutoMaker Otosan,�������븮,�ű� �ŷ�ó ����� ���� ���� ��û,0.3,one_time,2025-01-14,,,,,0.5,,
+2025-0012,TECH,AutoMaker,Purchasing,Sevval Sadic,E-mail,AutoMaker Otosan,�������븮,NDA ������ ���� ��û,0.3,one_time,2025-01-15,,,"������ �λ���� ����
+- ��ĵ�� �̸��� ����
+- �纻 2�� ���� ���� �ۺ�",,1,,
+2025-0013,TECH,VW,Quality,Peggau Christoph,Mail & conference call,height adjuster (H14),�����ü,"VW336 �Ϲ� Anchorage �򰡿��� H/ADJ slip down �߻�
+- 24.01.29 lot 
+- ���� �䱸���� : 13.3kN �Ҹ��� 
+- ���� �м� �ʿ�",0.3,continuous,2025-01-17,2025-02-28,,"- ǰ�� �̽����� critical supplier level 2 ������. ( �ܺα�� ���� ���� Ȱ�� �����ʿ�)
+- ��ǰ ���� �� �м� ���� ��
+- ���� ���� �� data ���� �� (2/13)
+- ���κм� �� ���� �� ��ȹ ���� ���� (2/17)",,,,
+2025-0014,TECH,HKMC,Engineering,MANGAM SAATHVICK,E-mail,QU2I,"����ö����, ����������","1. �� TYPE LED ��Ŭ ���� ���� ���� ���� ��û
+1) �ΰ��� ������ ���� ����Ÿ�缺 ���� ȸ��
+2) ��ǰ�� �� ���� ����",0.3,continuous,2025-01-23,2025-02-10,2025-02-10,"1. ��� ������ �� ���������� HMIE ��û ���� ������.
+- ���� Ÿ�缺 ���� �ʿ� 
+- ���� ����� ��ǰ�� �� ���� ���� ȸ�� �ʿ�
+
+2. �� TYPE Ư�� ���� ���� ���翬���� ����Ǿ��� ���� �� Ÿ�� Ư�� ���� �������� ���� �Ұ��� ���� ȸ�� �Ϸ�",,,2,2
+2025-0015,TECH,HKMC,Engineering,"
+MANGAM SAATHVICK",E-mail,MQ4i PE,RD,ALL �� ���� �ؼ� ��û : 25/2/15,0.3,continuous,2025-02-03,2025-02-15,2025-02-13,"1. MQ4i PE ALL �� ���� ��� ���� �ۼ� ���� ���� ����
+
+���� ��� - ALL �� ���� ���� ���� ��
+",,,2,2
+2025-0016,TECH,HKMC,Engineering,�Ŵ޼�å��,E-mail,JG & RS4,"AR, ED","
+�� ���׽ý����ߴ��� ���û��� 
+- ���� : PSB ? IBCU ������� ������ ���� ��Ŭ 
+- ���� : On-Off Ÿ���� ���� ��Ŭ (PSB / IBCU ������) 
+��, ���� ����(DE)�� ������ On-Off Ÿ�� ������Ŭ ������ ���� �Ұ�, ���� JG������ ���� ���� ��Ŭ ������ ���� 
+- ���� ��Ŭ ���� �¼� : ��/�ļ�(���ͼ� ����) 
+- JG/RS4������ ������ ���� ���׽ý� ������ ���� ���� ���� 
+
+�� ��û���� 
+1. ��� On-Off Ÿ���� ���� ��Ŭ ���� ���� ��� 
+2. JG ���� ��Ŭ �������� ���̽��� �ű� ���� ��ǰ �ּ�ȭ ��� ����(���߱Ⱓ �ּ�ȭ) 
+? 2/7(��)�� ������ ȸ�� ��û �帳�ϴ�.",0.3,continuous,2025-02-03,2025-02-07,,"1. ���� �䱸���� ���� ȸ�� ���� (2/5)
+2. ���� ���� ���� �ݿ����ɿ��� ���� (2/7) - AR/ED
+3. ���� ȸ�� ���� : 2/10�� ���� ���� ����
+
+* IBCU ���� ���� ���� 
+�� ON/OFF & ����� ��� ���߿Ϸ��Ͽ� ���ξ� Ȯ��
+�� DV ���߿Ϸ� �������� ���ȸ��
+�� COST �̽� ����, ����� ���(��/��) �̿�ȭ �����Ͽ� ���� ���� ���� �ʿ�.
+
+",,,,
+2025-0017,TECH,HKMC,Engineering,�����å��,E-mail,LT2,RD,LT2 ���� ��Ʈ��Ʈ ���߰��� KICKOFF ���� (â������ ����),0.3,continuous,2025-02-03,2025-02-14,2025-02-14,"1. LT2���� ���� KICKOFF ���� �ڷ� �غ� ���� ����
+
+2. ���� ��� �湮 ���� �Ϸ�
+�湮�� : ������弳���� ����� å�� , ���缮 ������
+- KICKOFF MEETING
+- ���� ���� �� ������ ����
+- H4 -> H12 �� ���� ���� ���� 
+- ���� ���߰��� ���� ���� ���� ��û (1ȸ/2��)",,,2,2
+2025-0018,TECH,HKMC,Engineering,����ȯå��,E-mail,ME,RD,"ME ���� �븸 ���� ���� �븸 ���� ���� ��û 
+
+ME �븸 ���� ������ : 25�� 12�� 
+
+�븸 ���� ��� : ������ ���� 
+
+�ִ��� ������ �븸 ���� ���� �� ����� �� �ֵ��� ��û",0.3,continuous,2025-02-04,2025-09-30,,"1. ME �븸���� �Ǹ� ���� (25�� 12�� ��꿹��)
+2. ME �븸 ���� ���� �� ��ȹ ���� �� ���� ���� ���� ����",,,,
+2025-0019,TECH,HKMC,Quality,"������å��, ����������",HMMC,CD,"ǰ���ι�, ���źι�","- H/ADJ �߱��� , �ѱ��� ȥ���� ���� �������� , ���� 4M ����
+( 23.04�� �ѱ��԰�, ü�ڰ��� ���� 23.06 ~ ���� ����)
+L �Ͻ��� ��ǰ �ؼ����� ��������, ���� �������� ��� ���Ե�.",0.3,one_time,2025-02-04,,,"1. ���� ���� ���� : �ѱ� �̿�ȭ �������� ���� ����.
+( ���� �Ű��� ������ & ���ؽ� ��� ��ǰ���� ����) 
+2. ���� �߱� H/ADJ ���Ұ�. 
+3. CAPA �Ұ��� , �ѱ� ���� 4M �Ű��� ��� ����.",,5,,
+2025-0020,TECH,HKMC,Engineering,�°������ý��ۼ���,E-mail,�λ�,"RD, ME","��Ʈ�� ���� (2/10�Ϻ�)
+- ���� : ������Ʈ 1��Ʈ(������) / 2��Ʈ(������)
+- ���� : ������Ʈ 1��Ʈ(������) / 2��Ʈ(����â-����)
+�� ������ ��Ʈ���� ����� ��Ʈ å�ӿ��������� ����.",0.3,one_time,2025-02-07,,,,,5,,
+2025-0021,TECH,HKMC,Quality,,BHMC,MX5C,"ǰ���ι�, �����ι�","- �߱����� MX5C ������ ��ü �ý�ȸ_�̵�� ���� 
+L 2�� ������Ʈ ��Ŭ ����⿡ ������ ���ŷӰ�, ���� ������ ���� �ʴ´�",0.3,one_time,2025-02-12,,,"1. ��Ʈ �������� ���� �°� ���� (������) 
+2. ��Ʈ�� ���� ( ���ظ���)
+3. MX5 ( �ѱ� ��ǰ) ���� �򰡽� ��������. 
+L �߱����� ���� Ȯ�� ���� �ʿ�. ( ��Ŭ ���� ����ǰ), ���� �������� �ʿ�. 
+4. KU���� ���� ���� �߻�. ( 3�״�� ���� ��ȹ ���� �ʿ�)
+5. LOCK PLATE & SLIDER & EJECTOR ġ�� �����Ϸ�. �ѱ��� ���ϼ��� �����Ϸ�.",,5,,
+2025-0022,TECH,HKMC,Engineering,����â��Ʈ��,E-mail,,"�����ι�, �����úι�","�� ���»� �ű԰���ǰ�� ���������� SR �ݿ� �� ���� ����
+�� SR 6���� ��������, �ڵ���&���»� �յ������� ������ȿ�
+�� ��� : �°������ý��ۼ����� ��뼱 å��",0.3,one_time,2025-02-18,,,- ������ ��ȹ �� �Ÿ� ���߰�ȹ ���� ���� -> SR���� ���� ���� (����/PE ��ȹ ��� ���Ȱ�ȹ),,5,,
+2025-0023,TECH,ZOOX,Purchasing,Goutham Sundaram,Webmeeting,VH6. C,"����ö����, ����������","23�� �Ϲݱ⿡ MGG�� ������� �ʰ� ���ͷ� ����� ���԰����� ��Ʈ��Ʈ ����(HV MSB)�� ��û�޾�����, ���Գ� Ÿ OEM �䱸������ ������ ���� �����ǻ簡 ������ ǥ����. �׷��� ZOOX������ ���� ���� �Ǵ� �̱� ����� ������ �ϱ� ���Ͽ� VH6. C�ܰ���� HV MSB�� �����ϱ�� 24�⸻�� �����ϰ� 25�� 2�� 12�Ͽ� ����� VH6. B ���ñ����� �����ϴ� ������ �뺸�� ����.",0.3,one_time,2025-02-19,,,"1. ZOOX�� �̹� ����ü�� �����Ͽ� VH6.C �ܰ���� ��ü��ȯ����
+-. ����� ���� Ȯ����
+2. �̱� ���忡 ���� HV MSB ��������ʿ� ���� ��۵� ���߰�ȹ�� �ݿ��Ͽ� �����ǻ� �Ƿ�������, �ش�������Ʈ���� �ٽ� �����ϱ� ����� �û�
+3. 3������ ZOOX ���翡 �湮�Ͽ� ���� ������Ʈ�� ���� ���ɼ��� ���Ͽ� ���� ����
+
+",,5,,
+2025-0024,TECH,HKMC,Purchasing,����������,E-mail,"2,3�����»�","�ſ������, �ǿ������, ����������","1. 2,3���� ���� ���� � 
+2. ���־�ü ���� ���� ���μ��� �
+3. �������»� �μ�Ƽ�� / ���Ƽ �
+4. �������»� ���ǰ������ ���� ����
+5. �������»� ������ �����",0.3,one_time,2025-02-20,,,"�� 2,3 �� �������� � 25�� �����. �������� 24��� ����. 
+�� 25.02.27 �� õ�ο� �Ŵ��� ���� �湮 ����. 
+L 1���� ��� ���� �ο� 5�� �( ������ ������ ����). ��� ��ȹ ���� �ʿ�.",,5,,
+2025-0025,TECH,HKMC,Engineering,������å��,��ȭ,JW2 SR,"�����úι�, �����ι�, ����ι�","- ���� �������߽�, ISCM�� ���� PSB ECU ���� ������
+�� * ISCM (Integrated Safety Control Module) 
+�� ISCM ����⿡ PSB �Ǵ� ���� ���̺귯�� SW �������� ����
+�� ���� ��ü : ���, ��Ƽ��Ż
+
+- JW2 : SR 25.9��, SOP 29����",0.3,one_time,2025-02-20,,,"1. ���� ���� ����� ���� ���� ��ȯ 
+- ��� �������� �ֿ� ����� (�ٵ�/ ����/ ����/ Infotainment/ ��������) �߽����� ���� ����� ���� ���� 
+- �������: ��������, �׽��� ����ⰳ�� �� �ý��� ���� ��� ����, SW ���ߺ�� ����
+
+2. ��� �̽� �� ���� ���� �ʿ� ����: 
+- ISCM ���� ��ü�� ���, ��Ƽ�� ������ �� ������ ����� ��� ���� ���� ������ �����ϹǷ� ��� ���忡�� �������� �κп��� ���� ���� �߻� �� �� ����. 
+- PSB ECU�� �ܵ����� 1�� ��ɸ� �־� �پ��� ����� ���� ������ ���յ� ���ɼ� ����. 
+- �����ؼ� �ܱ������� ����� ���� ���� ���� �� ������� ȸ�� ���� �� ���� �ε�� �ʿ� 
+- ����� �κ��� ��ȭ�� ������ �ƴϸ� ����� ������ ������ �Ǵ� �ʿ� 
+",,5,,
+2025-0026,TECH,VW,Purchasing,Edemann Niko,Conference Call,"General Audi Project
+Issue",�����ü,"1. SNF������Ȳ�� ���� ���� ���ӿ�[���� �Ҹ� ����
+2. ������(PM)���� ��ü���� ���ӿ�û
+",0.3,one_time,2025-02-20,,,"1. 2�� �������� VW �����ý���/����/����/PM ��������� �𿩼� ������Ʈ ��Ȳ�� ���Ͽ� �����ϰ�, ��û�����̳� ��ü ���������� 
+3�� 1������ ��� CEO���� �¶��� �����ý� ��޿���
+2. �־��� ��� ��� ������Ʈ Ȧ�� �� Supplier Panner���� ����",,5,,
+2025-0027,TECH,HKMC,Purchasing,����ȣå��,E-mail,�湮 ����,"�念���̻�, �տ�������","1. ��� â������ �湮����
+- �湮�� : HMC����ý��ۺ�ǰ������ ����ȣ å��
+- �Ͻ� : 2025�� 3�� 12~13�� (2�ϰ�)
+- �湮���� : �������������� �� ���� CAPA ����, ���� �� ���� Ȯ��
+- 2���� �湮 (�ڸ�īȭ�̹�)",0.3,continuous,2025-03-07,2025-03-12,,"1. �ش��� �غ���� ��û
+1) ������ : �ѱ�,�߽���,ü�ڵ� ���� ����CAPA �� �������� ���� CAPA �м�, ���ں�������
+2) ��ǰ�Ұ� : ��ġ��ŷ�� �ÿ� �� ���� �غ� (����������)
+3) �������η� ��Ȳ �ڷ� ���� (����ö����)
+4) 2���� �湮 ���� ( ����������)",,,,
+2025-0028,TECH,HKMC,Purchasing,�ڵο�å��,E-mail,MQ5a ����,"�念���̻�, �տ�������","KaGA MQ4a 8����/�� �ѱ���۰��� ���� ���� �����û
+- ���� : �����޾�ü ���丮�� 2���� ȭ������� ���� �Ҿ�����.
+- ����� MQ4 ���������� ������ ���������� ���� �������� ����",0.3,continuous,2025-03-07,2025-03-11,,"1. �ش��� �غ���� ��û
+1) ������ : CAPA �м�
+2) ���������� : ���Ȯ��, ���ߺ�ǰ ���� �� ���� ����
+3) ��������� : ���հ��� ( �� 8���� ���� �߰�Ȯ�� ���� )
+: MQ4 25��1�� ���� 69% ���� ( �������� ��� 68%)",,,,
+2025-0029,TECH,HKMC,Purchasing,KaSK,E-mail,4M �������,"���ϰǺ���, �̿�ȣ����, ����������, ���ּ�����",3������ 4M ���� �����Ű� �� 4M�Ű� ISIR ��������.,0.3,one_time,2025-03-13,,,"��ϰ� ���� ��� ���»� ���� ������ �߻� ����
+1_�ش� ���� �������� ���԰� �� ������? 
+2_��ǥ������ �߿��� ��ǰ �Ϻθ� �Ű��� ������? ������ �ʿ�
+L ��ü ������ 240EA �� 81EA ���� �̽Ű� 4M ����. 
+",,5,,
+2025-0030,TECH,HKMC,Quality,"ǰ������, ��������
+",E-mail,,"�۵�ȯ����, ����������, ���ּ�����","1.MQ4 ���� ��Ʈ��Ʈ ����ҷ� (Ȧ�� CLR Ŀ�� ��� - ��24.7�� ����)
+2. JW MSB ��Ʈ��Ʈ ���۾� ALR ���� ��ġ �ҷ� (����)
+
+L Ǯ���� �˻� ���� ��ȿ�� Ȯ��, ǰ���̽� ������å ���� ��Ȳ Ȯ�� ����
+�������� �����帧�� �����ʿ� �׸� Ȯ��",0.3,continuous,2025-03-17,2025-03-26,,"1) ���� �帧��, ������ȹ��, FMEA ���� (PT ������CJ)
+2) ÷�� PPT ���� ��� Ŀ�� ���� ���� ���� 3�� �׸� ���� ���� ���� ���� Ȯ�� �ʿ� (PT ����ȯCJ)
+3) Ǯ ���� �˻� ���� �ÿ� �غ� �ʿ� (PT ������CJ)
+4) Ǯ ���� �˻� ���� ���� Ү ǥ�ط� �Խ� (PT������CJ/PM������GJ)
+5) ������ȹ�� ���� ���� ���ռ� ���� Ȯ�� ��û (PT)
+6) 3/26(��) ~ 3/27(��) �系 ���۾� ���� ���� (����ũ�� ���� ���� �ʿ�) (PM)
+7) ���� ����/���� (PM/PT)
+",,,,
+2025-0031,TECH,HKMC,Quality,����ȣ������,E-mail,KU ��� ����,"����ȣ�̻�, �۱ټ�����, ����ö����, ���ּ�����","�ļ� SL1 ��� ���� ����� ���� ���� ���� ���� ���� �Ҹ� ����.
+L 9.3 ���� ��� ==> 4.5 KN ��� 5.7~6.9KN ����.",0.3,continuous,2025-03-18,2025-03-26,,"
+�� �߱⿬�䱸����. 
+4��° ���� ����� ���� ��� �ݺ��� �ش� ���� �սǺ�� 200�� RMB ���ع����. 
+�� �������. 
+==> �ѱ� SP3 ��� ������ ���� ����. �߱� ���ֿ�ȯ ITEM �ݳ� �� �������� �ɷ� �������� ��� ����. ����.
+==> ������ ���� ������ ��� ��� ���� �� ��� ����.",,,,
+2025-0032,TECH,AutoMaker,Purchasing,,E-mail,Q1 Award,"�������븮, õȫ�ð���","SSSJ, SSMX Q1 Award ���� ��Ȳ üũ��
+- Q1 MSA ���α׷� ���� ���� (CFT Team)
+- 6�ñ׸� �Ŵ�����Ʈ ���� (QC/QA Team)
+- ������޻� ��� ���͵� (QC Team)",0.3,continuous,2025-03-19,2025-08-30,,"MSA �غ� �۾� (~10/30)
+- ���α׷� ���� ���� (~8/30) : CFT Team)
+- 6�ñ׸� �Ŵ�����Ʈ ���� (~10/30): QC / QA Team
+-������޻� ��� ���͵� (~10/30) : QC Team",,,,
+2025-0033,TECH,AutoMaker,Purchasing,Elif Senoz,E-mail,V710,�������븮,"V710 Resourcing RFQ ����
+- 2019�� �����ߴ� RFQ������ ��� AUTOLIV ���� 23�� ����
+- ��� 2�� ���� �۷ι��ҽ� ����Ǹ� ���� ���� �������� �Ǵ�
+- 9�ν� VAN �������� ����� �� KC2.1 (WLR) �����ʿ�
+- 2025-04-15 �����̳� ���� ������䰡 �ʿ��� ���� ���� ����
+- �̹� RFQ ������ ���� �ļ����� ���� �ľ� �� �߰� ���� ����",0.5,continuous,2025-03-25,2025-04-22,2025-04-22,"1. ��������䱸 2025/04/22
+2. ���ΰ����غ� 
+1) RD : BOM,�����缭
+2) CP : ����
+3) PD : ������, ����ǰ ����
+4) PT : �������ں�
+5) PM : ����/�����
+6) ME : 1������ ����",,,2,3
+2025-0034,TECH,HKMC,Engineering,�迵ȯå��,E-mail,"SX3�� ��������
+SR","����ö����, ���������, �۵�ȯ����, ���ּ�����, �̿������, ���Ͽ��̻�, �念���̻�","1. SR Ү �����䱸���� �߰� (ES SPEC���� ���� �̹ݿ�)
+1) ��Ŭ�� ��ü �̹��� �������
+2) ��Ŭ STICKING TEST
+3) MGG ��Ż���� ���� (COP, ������ ����, ����&��Ʈ��, 1�� 1ȸ)
+4) ��Ŭ �ظ� ����
+5) CS(VS) �ű԰��߽� ���轺�� ��ȭ
+6) ���� �̵��� �ؼ� (100ȸ?)
+
+2. ���� �䱸���� 
+1) ���� ������Ƚ� ��� ������(��Ȳ) ���� �� ��.
+2) ���� ���ں�� �������� �ݿ�",0.3,continuous,2025-03-26,2025-05-30,,"<��� ���� ���� ��� �� �������� / 25.3.26> ���Ͽ�/���ּ�/����ö/�����/������/�̿��
+
+1. ���� �� �ؼ� ���� ��üȭ ���� ���� (RD/AE) 
+2. ��� ���� ���(��Ȳ) �� �ҿ�����, ��� ���� (ST) : 4/30
+3. ��� ���ȳ��� ���� �� �������� (RD) : 5��
+�� ǥ�� ��� (����, ���� ��) 1ȸ �����ϰ�, ���� �ο��ϴ� ���·�.. (������ �Ұ��ϸ�, �ǹ̵� �����Ƿ�)
+�� MGG ������ ���� COP : ������ ��ü �����ϰ�, �Ұ��� ��ƮȦ ������ ���������� ����, COP Ƚ�� ����� �ʿ�.
+�� �̵��� �ؼ� : TNO => Public ���� (LS DYNA H3) ��ü ����. ��ȿ�� �����ϰ� �ؼ� ��Ʈ���� �ո�ȭ ���ȿ�.",,,,
+2025-0035,TECH,HKMC,Purchasing,"�ڰ�����, ����������, �̹�öå��, õ�ο��Ŵ���",���翬���� ǰȮ��,��������ȸ��,"��ǥ�̻�, ����ȣ��, �念���̻�, ����������","1) Ʈ�������� ���� ���� ��λ��� ���� (3/19, 14��)
+2) ��� ��û���� ����",0.3,continuous,2025-03-27,2025-04-30,,"�� ����� �ؾ��� ��
+1. ������ �������� ��ô ���� �� RISK���� ���� ����
+2. ������ ���� 100������ ���˰�ȹ ����
+3. �ΰ����� ���� �� �ι� ����
+4. �߽��ڹ��� - ȭ��R&A ��ġ��ŷ
+�� ��û���� �ǵ��
+1. �ؿ����� SUB-KD ��ǰ ������ �Ͻú� ���� ��û - AY���� KMI ���� ������û����
+2. Į�󰳹ߴܼ�ȭ : ���翬���ҿ� ������, ������ �յ�ȸ��ü ����̸� ���� �б⶧ ��Ȳ �������ָ� �����ؼ� �Ȱǵ��� ����.",,,,
+2025-0036,TECH,HKMC,Purchasing,�赿���Ŵ���,E-mail,SX3�� ��������,�念���̻�,"1) AI�� �ε�/�������� RFQ ���� (���� 4/10)
+2) SX3�� �ѱ�/�Ϲ����� RFQ ���� (���� 4/21)",0.3,continuous,2025-03-28,2025-04-11,,"��Ʈ��Ʈ PQR ���� ���� (CC/IC 14�� �˻��׸� �ؼ� ��ǥ�̻� ���� ���� �ʿ�)
+1) �����׸� ��Ȯ�� (RD) : V/S G-LOCK ���� ���� ���俩�� �̷� Ȯ��
+2) ���� ���ں� �� ������ ������ ���� (PT) :",,,,
+2025-0037,TECH,AutoMaker,Purchasing,Martin Decker,E-mail,CX735,�������븮,"CX 735 ���� ���п� ���� ���� ���� Feedback ����
+
+- RR CTR RTR - OK
+- RR Double BKL - OK
+- FRT Buckles - > 10%
+- RR Outer RTR - >5%
+
+- ��� ���� �ٰŷ� ���� ���� �м� ������ �ۼ� ����(~04/11)",0.3,one_time,2025-04-04,,,"���� ���� �м� ������ : 2025/04/11
+- ���� ���� ���
+- ���� ��ü ���� ���� ����
+- ���� Ȯ�� �� ���� �߻� �ֿ� ���� �ľ�
+- ���� ���� ��ȹ ����",,3,,
+2025-0038,TECH,HKMC,Purchasing,��ȣ��å��,������ȭ,A/S ����,"�۵�ȯ����, �̵�������, ������븮, �������븮, �豤������","1. A/S ���� ���� ����
+1) A/S ������ ����
+2) ��� �̳� ����",0.5,one_time,2025-04-04,,,"1. ����
+1) ��ǰ ���޹����� ���� ����Į���̼� ����(����,�ܺ�)
+- �귯���� ������ �ƴ� ���׿����� ����, � ���� ����
+- ������ ��ǰ, �������� ���, ���̾��� ���� �ҷ�, �ҿ䷮ �۾Ƽ� ���»� �̴����� ���� ���� ���
+2) ���԰� ��ǰ�� ���� ���� ���� ��ġ
+3) ���� �� �������� �� �ڱ����� ���� QA ���� ����
+4) A/S ǰ��� ������ ���� ������ ����
+3. ��å
+1) �Ͽ� ����� Ȯ���ϰ� ����Į���̼��� �Ǵ� ���� ����
+- BI�ð�ȭ�� ���� ���� ���� ����(�̳� ǰ����, ���� �Ұ� ǰ����, ���� �̳� ǰ���� �� ���� �� ��å)
+2) ���� ������ ���� ����Į���̼� ����
+3) ǰ��� ��Ҹ� ���� FBO ����
+- ���� 682ǰ�� ���� ��(��� ���� 1�� ���� ���� �� �� ���� ��� �׸� ���� �� FBO ����)
+- #124 ���� ǰ�� ����
+4) #124ǰ�� ELR���� ���� ����
+- 4/8�� ���� ���� or ��(SD3) ���� ��û�� �ۺ�",,5,,
+2025-0039,TECH,GM,Quality,���������,TECH,B-Car,"�������븮, �̵�������",���� ���꿡 ���� Retooling TKO ���� ���� ȸ��,0.5,one_time,2025-04-04,,,"Tool Kick - Off ȸ�� �� ���� ���� ȸ��
+- TKO Checklist ���� �� ���� �ʿ� �׸� ����
+- ���� �� ���� ���� ���� ȸ�� ���� ����
+- ���� PPAP �Ϸ� ��ǥ��(8/31)�� ���� �ʿ� ���� �غ� ��Ȳ ����
+- ���� �ʿ� ���� ���� : G/Grip ġ�� ���� ���� ��",,4,,
+2025-0040,TECH,GM,Purchasing,"����������, ���������",Webmeeting,B-Car,"�������븮, �̵�������",���� ���꿡 ���� TKO ȸ��,0.5,one_time,2025-04-08,,,"[TKO ���] �ļ� ���� ����
+- ADVP&R ��ǥ �� ���� ���� ���� : 2025-04-15 (SVE-DRE / �豤�� ����)
+- GM ������ ���� �湮 : 2025-04-16~17
+- Timing Plan ������ ���� : 2025-04-08
+- AQAAR �ܰ� ���� : ���� �Ϸ� ��(SQE)
+- GM3660 ���衤���� ���� Ȯ�� : ���� (SVE-DRE / �豤�� ����, ����� ����)
+- PPAP ���� : 2025-08-31 (SQE)
+
+����ũ �� ��û����
+- ���� ���桤�߰� ���� �߻� ���ɼ� (KS4037, KMVSS KC)
+- ���� �Ϻ� ���� �߻��� Curing�� ���� ���� ���� : ���� ���� �� ���� ����
+- Tool-��ǰ ȥ�� ���� ���μ��� ���� Ȯ�� �ʿ�
+ȸ�� ���� �� 04/16~04/17 ���ϰ� â�� ���� �湮 ���� (���� ���ݼ� ����, ������ ����)",,5,,
+2025-0041,TECH,HKMC,Purchasing,�ڱ�ö����,NH2 ���̳�,"NH2 
+�������̳�","�ǿ������, ��濵����","�� 24�� ���� ��� ���� �ʴ� 25�� --> �е����� ����ǰ�� ���� �Ҽ��ִ�.
+(��üǰ������ ����ǰ�� 50���� ����_ ��ǰǰ���� �е����� ����) 
+(�е����� ������ ���������� �����Ѵ�. )
+1. �����νǿ� ���� �������� �߻��� ���� ���翹��. 
+2. ���� ���� ü�� ������ ���� ���� ��Ų��. 
+������ ���� ���� Ȱ��. -> ���� �����Ϳ� ���� �������Ȱ�� ���� ����.
+L ���»� 4M ���� ������. ( 1����, 2���� �������)
+�� ���� ������� JG �������� �Ѵܰ� ���׷��̵� ��.",0.5,one_time,2025-04-16,,,"�� ���������� ǰ�� ���� �� ���� �Ϸ�. �� 90�� �����Ϸ�, 36�� ġ�� �����Ϸ�.
+�� ����ǰ�� 8���׸� ���»� ���� ����. �� 8829ǰ�� 45����. ������. 
+�� ���� �����ν��׸� ���� ���� ������. 
+�� ������ �ٹ�ǰ��. ��ŷ, ������ ���� ���� ����. 3������ 40���׸��� 27���׸� �Ϸ�. 
+�� ������ ������ ǰ������ �� ���� ���� , JOB SET UP �׸����� ������. 
+�� ����ǰ�� ���� Ȱ��. 862�� ����. 
+�� 4M�̽Ű�. (2���� ���� �� ��ắ���) : 591��. 
+�� Ưä �̽Ű�(�ҷ�ǰ����). 56��. 
+�� �����ν� ( ������ȹ ����, ��������ġ ��) 108��. 
+�� ��԰� ��� ��� 56��.",,5,,
+2025-0042,TECH,GM,Purchasing,"���ݼ�����, ����������",TECH,B-Car,"�念���̻�, �������븮","B-CAR ������� �����λ� ���ü�� Ȯ��
+�������� ��Ȳ ����
+���� �ű� ���� ��Ȳ ����",0.5,continuous,2025-04-18,2025-04-30,,"B-CAR ������� ����ȸ��
+1) �ǸŰ� �λ� ���ڰ�� ü�� �Ϸ� ( 127%�λ�, ���� 11% 2�Ⱓ ���� �λ�)
+2) ������ 26��� 11�� �� �Ͻú� �Ա��� ���� 8�� �� PPAP �Ϸ� �����
+3) �������� ����ȭ �� ���� ������ �����־����� �űԶ������� ���� ����
+
+���»� �Ǹſ�û�� (GM���������Ǹ� 4�k���� 120���� + 3%�߰�����)
+- ��� �Ҵ�� : 3��
+- �系 ����� �������� ���� ���� (�豤������)
+- �系 �������� ����� ȫ�� ( �系 ��Ʈ���)
+- 2���� ���� ����� ȫ�� (����������)",,,,
+2025-0043,TECH,TESLA,Purchasing,Martha,SSNA,TESLA,"���籸�ڻ�, �������","TESLA ���� SSMX �湮 (5/19~5/20)
+- �űԾ�ü ����湮 (TESLA ����, SQA��)
+- ���� CPA, ������, G-ERP, ���� ����",0.5,continuous,2025-05-09,2025-05-20,,,,,,
+2025-0044,TECH,HKMC,Purchasing,�ڰ�����,,����ũ �� 4M ���� ���� ǰ������ ���� ö�� ���� ���û,,"1. ����ũ ���μ��� �ؼ�����
+1) ����ũ�� �ʿ��� ���, �ݵ�� ��ǰ���ߴ���� ���� ������ ���� ��, ǰ���߿��� ���� �Ͽ� �۾� ����
+? - ���� ���� ����� ����ũ�� ���� ǰ�� �̽��� �������� �ش� ���»��� å������ ���ֵ�
+2) ����ũ �� �۾��� �� �۾����� ���� ö��
+- ����ũ �۾��� �ռ� ��ǰ���ߴ�翡 ���� �۾��� �� �۾����ؿ� ���� ���� ���� �ʿ�
+?? ����ũ ���� �۾����� � ���� Ȯ��
+?? ����ũ �۾�ǥ�ؼ��� ���� �� ������ ���� (�ϱ⳻�� �߽� ����) 
+?�� �ҷ� ���� ������ ��Ȯȭ
+?�� SUB ��ǰ ���� ���� �� ���� ����
+?�� �˻� �׸��� ����ȭ
+?�� ������ǰ�� �ݸ� �� �̷°��� ���
+?�� ��ü ����ũ �۾��� ���� ǥ�� ���� ����
+3) ����ũ �Ϸ� �Ŀ��� ���� �����ο��� �ݵ�� ǰ���˻縦 �ǽ�
+4) ����ũ �̷°��������� �ݵ�� ��Ͽ� ���� �׸��� ���� �����ؾ� ��
+??- ����ũ �ǽ� ���� �� ���, �۾� ������ �� ������, ���� ��ǰ �� �۾� ����
+- ��ǰ ���Ŀ��� ����ũ �̷��� ��Ȯ�� ���� �����ϵ��� ����ũ ��ǰ�� ���������� ���� �ĺ����� ǥ�� �ʿ� 
+5) ���� ���� ���� �� ���� ��� ö�� ���
+- ���ֻ翡������ ���� �ڵ��� �ζ��α����� ���� �� �������� ���� ��ǰ�� ���� ������ �߻����� �ʵ��� ö���� ���� �ʿ�
+- ����ũ �� ���� ����� �ݵ�� ����ϸ�, �� ����� ���ؼ��� ��ǰ���� ����� ���� Ȯ���� �ǽ��ؾ� �մϴ�.
+
+2. 4M���� �ؼ�����
+1) ��ǰ���ߴ�� �������� �� 4M ���� ����
+2) ǰ������ �� 4M ���� �Ű� ���μ��� ö�� ���� (4M ǥ������ �ؼ�)
+3) 4M���� ��ǰ �����˻� �ǽ� (4M ���� �� 3����)""",0.5,one_time,2025-05-15,,,,,5,,
+2025-0045,TECH,HKMC,Engineering,������������,E-mail,"48V
+E/E ��Ű����
+SR ���ൿ��","�������̻�, ����������, ����ö����, �念���̻�","1. �°� ���� ������ ���� Ȯ�� ���� 
+- NE2(28.�� ���)�� E2E ���� ���� �����̶� NE2 �������� ���� ���� ���� ���̰� �� �κ��� ����� ���� JW2(29���� ���)�� ���� �� �� ����.
+(NE2�� PSB �ɼ��� ������ �ִٴ� �����Ͽ� ��ü ������ ���� ��)
+- E2E ��Ű��ó�� 48V, �̴����� ǥ���̶� ������ ���� �� �Ǵ� ������ ��Ȯ�� �����ϰ� �����ؾ� ��.
+- NE2 ��Ű��ó ���ǰ� ���� ���� ������ '25�� �Ϲݱ� ����� �� �� ����
+- JW2 SR�� �⺻ E2E(48V, �̴���)�� ���� ����('25�� 9�� ����.)
+- Ÿ ����� �غ� ������ ��� ��� �غ� ���� �Ǿ� ���� �ʰ� �ڷᵵ �ν�����.( �߰� Ȯ�� ����) 
+
+2. �����ý���������� ������ å�� Ȯ�� ���� 
+- �߰��ؼ� ISCM ���� ����ڿ͵� ���������� ���� ���� ���ε� ISCM ����ڵ� CAN-FD ���� �κ��� �̴������� ����� �� �־� �߰� �������� ���� ��ٷ� �޶�� �ߴٰ� ��
+",0.5,continuous,2025-05-15,2025-09-15,,,,,,
+2025-0046,TECH,HKMC,Purchasing,�赿���Ŵ���,,���׽ý� ��� ���� ��� ȸ��,"�念���̻�, ���¿�����",,0.5,continuous,2025-05-16,2025-07-25,,"1. ���� : ���׽ý� ���� ��ǰ�� �ҷ� ���꿡 ���� ������ ���� �߻�
+- ���ֽ� 5����(JK,JX,JW,RG3,RS4) 576item � �� ���� 2,207item ����� 383,2%
+2. ������ : ���� �������� �Ӵ�â�� �
+3. ���� : ���׽ý� ���� ��� ������ ���� ���� ��� ȸ��
+1) ������ ��� ���� ��Ȳ ���� - PM(�Ϸ�)
+2) ���� ���� ���� �� ���� �ݾ� ���� - PM(�Ϸ�)
+3) ���� ���� �� ��� ȸ��(�ܰ� �λ�) - ME",,,,
+2025-0047,TECH,HKMC,Purchasing,��ȫ������,E-mail,���ü�ڰ�������ȭ,"���ϰǹ�����, �����ºλ���, ����ȣ��, �念���̻�","2. ��û����
+�� ��ü���� ���� �� 26�� 1�б� ����ȭ ��� �ؼ��� ���� ���� ���� ��ȸ ��� ����(~25.5/23)
+�� ��� ���� ����ȭ TFT ������ ��� �İ�
+�� ��� ���� �濵�� KaSK �湮�Ͽ� �� ���� ����� ���� ��û(25.5�� ��)
+�� ������ ������ ������� �� ���� ����� �� �߰� ���� �߻� �����Ͽ� �� ����/����� ����
+�� KaSK/���(ü) �� ���� �� ���� ���� ��� ����(~25.5/23)",0.5,continuous,2025-05-23,2025-05-23,,"��û���׿� ���� ��� (�������� ȸ�Ź߼� 250523 - KaSK, HMC����, ����)
+(1) �������� ��ȸ��� : ÷�� ���ü�� ���� �����ȭ ������ȹ(250523A) ����
+(2) ����ȭ TFT������ �İ� : �󼼼��� �� �������� ������ ���� �� �ǰ� (5/30�� ����)
+(3) �濵�� KaSK�湮 ���� : 5/30 �����ºλ��� KaSK �湮 ���� (�ð� �� ��ü�� ��ȹ�� ���ϰǹ������� ���� ��������)
+(4) KaSK/���(ü) �� ���밳�� : ���� ����ȸ�� ���� (�ſ� ��°�� �湮 ��� ����)",,,,
+2025-0048,TECH,HKMC,Purchasing,����ý��۰��߽�,E-mail,2/3�� ���»�����������,"����ȣ��, �۵�ȯ����, ���ּ�����, �ſ������","25/06/11 ����ý��� ��ǰ���߽���(�ڰ�����) , ����(����������), ���(õ�ο��Ŵ���)
+3�� �湮 ����. 
+�湮 ���� 
+1. ���� �ǻ�. (���� ù �湮) _ ��� ������ ��� ��û. 
+L �ܰ�����, ��κ�ǰ,��ǰ ����. â�� ���� ����. 
+2. 2,3�� ���»� ǰ�� ��� Ȱ�� ����. _ 2,3 �� �������� ���Ȯ��, ����� ��������
+( ���� ���� ���»� ����ο� �δ� 5�� ���� �䱸)
+",0.5,continuous,2025-05-26,2025-06-11,,,,,,
+2025-0049,TECH,BMW,Purchasing,������Ŵ���,Conference Call,BMW �űԼҽ�,�念���̻�,"BMW���� ����������Ʈ �ι� �űԾ�ü Ǯ Ȯ�븦 �� ��ī���� ��
+ȸ��Ұ��ڷ� ��û",1,continuous,2025-05-27,2025-05-27,2025-05-27,"1. ȸ��Ұ� ������ �ۺ� 
+2. ���� BMW�� RFQ���� �̷� ���� ( VW QR �������� ���ɼ� ����)
+3. ���� ���� ����� ���۷��� ���� ���� ��û",,,5,5
+2025-0050,TECH,ETC,Purchasing,�̱Ի��,Conference Call,�ε� �ҽ�,�念���̻�,#NAME?,0.5,continuous,2025-05-29,2025-06-30,,"1. ��񽺿� ��� ��ȹ ����
+2. ��Ʈ��Ʈ ��� ���� �Ұ� ����",,,,
