@@ -1,0 +1,26 @@
+# 불필요한 파일들 제외
+node_modules
+.next
+.git
+coverage
+*.log
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 테스트 및 개발 관련 파일
+__tests__
+*.test.*
+*.spec.*
+.vscode
+.idea
+
+# 빌드 캐시
+.turbo
+.swc
+
+# 기타
+README.md
+*.md 

@@ -1,6 +1,5 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   // 배포를 위한 최소 설정
   eslint: {
     ignoreDuringBuilds: true,
@@ -9,13 +8,16 @@ const nextConfig: NextConfig = {
     ignoreBuildErrors: true,
   },
   
-  // 프로덕션 최적화
-  swcMinify: true,
-  
   // 이미지 최적화
   images: {
     unoptimized: true,
   },
+  
+  // 성능 최적화
+  swcMinify: true,
+  experimental: {
+    optimizeCss: false,
+  },
 };
 
-export default nextConfig;
+module.exports = nextConfig; 
