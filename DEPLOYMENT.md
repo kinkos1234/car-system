@@ -43,9 +43,9 @@ Vercel 대시보드에서 **Settings > Environment Variables**에 다음 변수�
 
 ```bash
 # Supabase 설정
-NEXT_PUBLIC_SUPABASE_URL=https://prqnogpoggsuasljldjd.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBycW5vZ3BvZ2dzdWFzbGpsZGpkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA0ODg5MjMsImV4cCI6MjA2NjA2NDkyM30.hTQs_fEXgNWBuHAIuSLT9MRfonontq5TFFNNKUJfhrg
-SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBycW5vZ3BvZ2dzdWFzbGpsZGpkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1MDQ4ODkyMywiZXhwIjoyMDY2MDY0OTIzfQ.qeblQvlp6X04W8SXkjLO35qt8mGammeVQzUpLXcYX-M
+NEXT_PUBLIC_SUPABASE_URL=your-supabase-project-url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
+SUPABASE_SERVICE_ROLE_KEY=your-supabase-service-role-key
 
 # JWT 설정
 JWT_SECRET=comadj-car-system-jwt-secret-2025
